@@ -1,1513 +1,1513 @@
-#hsa	CLP/CMP	Blast_phase	All
-2932	#ddccff,red	#ddccff,red
-5601	#ddccff,red	#ddccff,red
-2931	#ddccff,red	#ddccff,red
-3791	#ddccff,red	#ddccff,red
-11200	#ddccff,red	#ddccff,red
-1147	#ddccff,red	#ddccff,red
-5579	#ddccff,red	#ddccff,red
-5156	#ddccff,red	#ddccff,red
-6714	#ddccff,red	#ddccff,red
-1455	#ddccff,red	#ddccff,red
-983	#ddccff,red	#ddccff,red
-84446	#ddccff,red	#ddccff,red
-3552	#ddccff,red	#ddccff,red
-7010	#ddccff,red	#ddccff,red
-9261	#ddccff,red	#ddccff,red
-5599	#ddccff,red	#ddccff,red
-5580	#ddccff,red	#ddccff,red
-1453	#ddccff,red	#ddccff,red
-50488	#ddccff,red	#ddccff,red
-23178	#ddccff,red	#ddccff,red
-6790	#ddccff,red	#ddccff,red
-4193	#ddccff,red	#ddccff,red
-4233	#ddccff,red	#ddccff,red
-5588	#ddccff,red	#ddccff,red
-11183	#ddccff,red	#ddccff,red
-24413	#ddccff,red	#ddccff,red
-7525	#ddccff,red	#ddccff,red
-3718	#ddccff,red	#ddccff,red
-4306	#ddccff,red	#ddccff,red
-5590	#ddccff,red	#ddccff,red
-26416	#ddccff,red	#ddccff,red
-1456	#ddccff,red	#ddccff,red
-8550	#ddccff,red	#ddccff,red
-6462	#ddccff,red	#ddccff,red
-4780	#ddccff,red	#ddccff,red
-9212	#ddccff,red	#ddccff,red
-53944	#ddccff,red	#ddccff,red
-3932	#ddccff,red	#ddccff,red
-9448	#ddccff,red	#ddccff,red
-5578	#ddccff,red	#ddccff,red
-4067	#ddccff,red	#ddccff,red
-7298	#ddccff,red	#ddccff,red
-5241	#ddccff,red	#ddccff,red
-26395	#ddccff,red	#ddccff,red
-5584	#ddccff,red	#ddccff,red
-9475	#ddccff,red	#ddccff,red
-6885	#ddccff,red	#ddccff,red
-5582	#ddccff,red	#ddccff,red
-6788	#ddccff,red	#ddccff,red
-301	#ddccff,red	#ddccff,red
-5586	#ddccff,red	#ddccff,red
-2324	#ddccff,red	#ddccff,red
-1956	#ddccff,red	#ddccff,red
-5581	#ddccff,red	#ddccff,red
-5159	#ddccff,red	#ddccff,red
-2011	#ddccff,red	#ddccff,red
-5583	#ddccff,red	#ddccff,red
-1719	#ddccff,red	#ddccff,red
-5261	#ddccff,red	#ddccff,red
-4486	#ddccff,red	#ddccff,red
-2908	#ddccff,red	#ddccff,red
-6573	#ddccff,red	#ddccff,red
-6195	#ddccff,red	#ddccff,red
-403655	#ddccff,red	#ddccff,red
-23617	#ddccff,red	#ddccff,red
-8202	#ddccff,red	#ddccff,red
-3815	#ddccff,red	#ddccff,red
-2740	#ddccff,red	#ddccff,red
-1020	#ddccff,red	#ddccff,red
-805	#ddccff,red	#ddccff,red
-808	#ddccff,red	#ddccff,red
-24312	#ddccff,red	#ddccff,red
-6198	#ddccff,red	#ddccff,red
-3551	#ddccff,red	#ddccff,red
-14272	#ddccff,red	#ddccff,red
-110606	#ddccff,red	#ddccff,red
-281169	#ddccff,red	#ddccff,red
-327686	#ddccff,red	#ddccff,red
-2064	#ddccff,red	#ddccff,red
-23683	#ddccff,red	#ddccff,red
-4140	#ddccff,red	#ddccff,red
-2936	#ddccff,red	#ddccff,red
-1859	#ddccff,red	#ddccff,red
-9252	#ddccff,red	#ddccff,red
-5871	#ddccff,red	#ddccff,red
-5567	#ddccff,red	#ddccff,red
-2260	#ddccff,red	#ddccff,red
-558	#ddccff,red	#ddccff,red
-2322	#ddccff,red	#ddccff,red
-113235	#ddccff,red	#ddccff,red
-6517	#ddccff,red	#ddccff,red
-248	#ddccff,red	#ddccff,red
-2264	#ddccff,red	#ddccff,red
-4790	#ddccff,red	#ddccff,red
-25	#ddccff,red	#ddccff,red
-3569	#ddccff,red	#ddccff,red
-5163	#ddccff,red	#ddccff,red
-1452	#ddccff,red	#ddccff,red
-7157	#ddccff,red	#ddccff,red
-6850	#ddccff,red	#ddccff,red
-80351	#ddccff,red	#ddccff,red
-1454	#ddccff,red	#ddccff,red
-1436	#ddccff,red	#ddccff,red
-5255	#ddccff,red	#ddccff,red
-5256	#ddccff,red	#ddccff,red
-5257	#ddccff,red	#ddccff,red
-4593	#ddccff,red	#ddccff,red
-5260	#ddccff,red	#ddccff,red
-13361	#ddccff,red	#ddccff,red
-984	#ddccff,red	#ddccff,red
-2720	#ddccff,red	#ddccff,red
-5476	#ddccff,red	#ddccff,red
-7272	#ddccff,red	#ddccff,red
-2050	#ddccff,red	#ddccff,red
-1588	#ddccff,red	#ddccff,red
-2241	#ddccff,red	#ddccff,red
-6794	#ddccff,red	#ddccff,red
-816	#ddccff,red	#ddccff,red
-10733	#ddccff,red	#ddccff,red
-5663	#ddccff,red	#ddccff,red
-250	#ddccff,red	#ddccff,red
-5587	#ddccff,red	#ddccff,red
-2100	#ddccff,red	#ddccff,red
-812762	#ddccff,red	#ddccff,red
-11835	#ddccff,red	#ddccff,red
-572	#ddccff,red	#ddccff,red
-650	#ddccff,red	#ddccff,red
-866	#ddccff,red	#ddccff,red
-8648	#ddccff,red	#ddccff,red
-10499	#ddccff,red	#ddccff,red
-728642	#ddccff,red	#ddccff,red
-7124	#ddccff,red	#ddccff,red
-2099	#ddccff,red	#ddccff,red
-7297	#ddccff,red	#ddccff,red
-5292	#ddccff,red	#ddccff,red
-60352	#ddccff,red	#ddccff,red
-64462	#ddccff,red	#ddccff,red
-8317	#ddccff,red	#ddccff,red
-9748	#ddccff,red	#ddccff,red
-100529261	#ddccff,red	#ddccff,red
-4139	#ddccff,red	#ddccff,red
-6733	#ddccff,red	#ddccff,red
-9024	#ddccff,red	#ddccff,red
-2263	#ddccff,red	#ddccff,red
-427317	#ddccff,red	#ddccff,red
-7046	#ddccff,red	#ddccff,red
-91	#ddccff,red	#ddccff,red
-2356	#ddccff,red	#ddccff,red
-3417	#ddccff,red	#ddccff,red
-1457	#ddccff,red	#ddccff,red
-2261	#ddccff,red	#ddccff,red
-509322	#ddccff,red	#ddccff,red
-516619	#ddccff,red	#ddccff,red
-533276	#ddccff,red	#ddccff,red
-1645	#ddccff,red	#ddccff,red
-2342	#ddccff,red	#ddccff,red
-5095	#ddccff,red	#ddccff,red
-5096	#ddccff,red	#ddccff,red
-9128	#ddccff,red	#ddccff,red
-25318	#ddccff,red	#ddccff,red
-64511	#ddccff,red	#ddccff,red
-367	#ddccff,red	#ddccff,red
-8851	#ddccff,red	#ddccff,red
-249	#ddccff,red	#ddccff,red
-547923	#ddccff,red	#ddccff,red
-100848466	#ddccff,red	#ddccff,red
-2872	#ddccff,red	#ddccff,red
-891	#ddccff,red	#ddccff,red
-9133	#ddccff,red	#ddccff,red
-85417	#ddccff,red	#ddccff,red
-9833	#ddccff,red	#ddccff,red
-640	#ddccff,red	#ddccff,red
-340156	#ddccff,red	#ddccff,red
-120892	#ddccff,red	#ddccff,red
-4915	#ddccff,red	#ddccff,red
-5063	#ddccff,red	#ddccff,red
-10298	#ddccff,red	#ddccff,red
-5602	#ddccff,red	#ddccff,red
-27330	#ddccff,red	#ddccff,red
-1019	#ddccff,red	#ddccff,red
-547694	#ddccff,red	#ddccff,red
-547835	#ddccff,red	#ddccff,red
-547836	#ddccff,red	#ddccff,red
-547856	#ddccff,red	#ddccff,red
-547860	#ddccff,red	#ddccff,red
-547861	#ddccff,red	#ddccff,red
-5592	#ddccff,red	#ddccff,red
-2268	#ddccff,red	#ddccff,red
-25778	#ddccff,red	#ddccff,red
-83942	#ddccff,red	#ddccff,red
-818	#ddccff,red	#ddccff,red
-6196	#ddccff,red	#ddccff,red
-5091	#ddccff,red	#ddccff,red
-80899	#ddccff,red	#ddccff,red
-1085515	#ddccff,red	#ddccff,red
-24208	#ddccff,red	#ddccff,red
-6789	#ddccff,red	#ddccff,red
-1025	#ddccff,red	#ddccff,red
-23043	#ddccff,red	#ddccff,red
-2348	#ddccff,red	#ddccff,red
-5603	#ddccff,red	#ddccff,red
-1081	#ddccff,red	#ddccff,red
-26576	#ddccff,red	#ddccff,red
-4853	#ddccff,red	#ddccff,red
-4854	#ddccff,red	#ddccff,red
-4855	#ddccff,red	#ddccff,red
-4058	#ddccff,red	#ddccff,red
-3717	#ddccff,red	#ddccff,red
-1111	#ddccff,red	#ddccff,red
-817	#ddccff,red	#ddccff,red
-6331	#ddccff,red	#ddccff,red
-10114	#ddccff,red	#ddccff,red
-91807	#ddccff,red	#ddccff,red
-84385	#ddccff,red	#ddccff,red
-2185	#ddccff,red	#ddccff,red
-5426	#ddccff,red	#ddccff,red
-5427	#ddccff,red	#ddccff,red
-6241	#ddccff,red	#ddccff,red
-50484	#ddccff,red	#ddccff,red
-54107	#ddccff,red	#ddccff,red
-56655	#ddccff,red	#ddccff,red
-79813	#ddccff,red	#ddccff,red
-110147	#ddccff,red	#ddccff,red
-116447	#ddccff,red	#ddccff,red
-140668	#ddccff,red	#ddccff,red
-65156	#ddccff,red	#ddccff,red
-5593	#ddccff,red	#ddccff,red
-14815	#ddccff,red	#ddccff,red
-202374	#ddccff,red	#ddccff,red
-28996	#ddccff,red	#ddccff,red
-2534	#ddccff,red	#ddccff,red
-5893	#ddccff,red	#ddccff,red
-6240	#ddccff,red	#ddccff,red
-5651987	#ddccff,red	#ddccff,red
-3654	#ddccff,red	#ddccff,red
-387129	#ddccff,red	#ddccff,red
-3716	#ddccff,red	#ddccff,red
-5979	#ddccff,red	#ddccff,red
-9891	#ddccff,red	#ddccff,red
-6606	#ddccff,red	#ddccff,red
-599	#ddccff,red	#ddccff,red
-25672	#ddccff,red	#ddccff,red
-294673	#ddccff,red	#ddccff,red
-6787	#ddccff,red	#ddccff,red
-2321	#ddccff,red	#ddccff,red
-1723	#ddccff,red	#ddccff,red
-9263	#ddccff,red	#ddccff,red
-6197	#ddccff,red	#ddccff,red
-8476	#ddccff,red	#ddccff,red
-200576	#ddccff,red	#ddccff,red
-6416	#ddccff,red	#ddccff,red
-23235	#ddccff,red	#ddccff,red
-2049	#ddccff,red	#ddccff,red
-4851	#ddccff,red	#ddccff,red
-18596	#ddccff,red	#ddccff,red
-5613	#ddccff,red	#ddccff,red
-1196	#ddccff,red	#ddccff,red
-6732	#ddccff,red	#ddccff,red
-2350	#ddccff,red	#ddccff,red
-100533105	#ddccff,red	#ddccff,red
-801	#ddccff,red	#ddccff,red
-6093	#ddccff,red	#ddccff,red
-238	#ddccff,red	#ddccff,red
-122011	#ddccff,red	#ddccff,red
-2645	#ddccff,red	#ddccff,red
-51701	#ddccff,red	#ddccff,red
-65975	#ddccff,red	#ddccff,red
-23604	#ddccff,red	#ddccff,red
-3960	#ddccff,red	#ddccff,red
-5170	#ddccff,red	#ddccff,red
-2444	#ddccff,red	#ddccff,red
-2339	#ddccff,red	#ddccff,red
-47	#ddccff,red	#ddccff,red
-83805	#ddccff,red	#ddccff,red
-403426	#ddccff,red	#ddccff,red
-8536	#ddccff,red	#ddccff,red
-815	#ddccff,red	#ddccff,red
-50507	#ddccff,red	#ddccff,red
-597	#ddccff,red	#ddccff,red
-10017	#ddccff,red	#ddccff,red
-23678	#ddccff,red	#ddccff,red
-24835	#ddccff,red	#ddccff,red
-26750	#ddccff,red	#ddccff,red
-29904	#ddccff,red	#ddccff,red
-65267	#ddccff,red	#ddccff,red
-65268	#ddccff,red	#ddccff,red
-280960	#ddccff,red	#ddccff,red
-5894	#ddccff,red	#ddccff,red
-8767	#ddccff,red	#ddccff,red
-7075	#ddccff,red	#ddccff,red
-1017	#ddccff,red	#ddccff,red
-8658	#ddccff,red	#ddccff,red
-5566	#ddccff,red	#ddccff,red
-51053	#ddccff,red	#ddccff,red
-1021	#ddccff,red	#ddccff,red
-57396	#ddccff,red	#ddccff,red
-166614	#ddccff,red	#ddccff,red
-4217	#ddccff,red	#ddccff,red
-4331	#ddccff,red	#ddccff,red
-508809	#ddccff,red	#ddccff,red
-27102	#ddccff,red	#ddccff,red
-4293	#ddccff,red	#ddccff,red
-6300	#ddccff,red	#ddccff,red
-5607	#ddccff,red	#ddccff,red
-16590	#ddccff,red	#ddccff,red
-2870	#ddccff,red	#ddccff,red
-6046	#ddccff,red	#ddccff,red
-7867	#ddccff,red	#ddccff,red
-8019	#ddccff,red	#ddccff,red
-5467	#ddccff,red	#ddccff,red
-8428	#ddccff,red	#ddccff,red
-10494	#ddccff,red	#ddccff,red
-30811	#ddccff,red	#ddccff,red
-3783750	#ddccff,red	#ddccff,red
-147746	#ddccff,red	#ddccff,red
-2194	#ddccff,red	#ddccff,red
-5753	#ddccff,red	#ddccff,red
-4914	#ddccff,red	#ddccff,red
-3055	#ddccff,red	#ddccff,red
-351	#ddccff,red	#ddccff,red
-100462812	#ddccff,red	#ddccff,red
-3074	#ddccff,red	#ddccff,red
-17161	#ddccff,red	#ddccff,red
-4201816	#ddccff,red	#ddccff,red
-4204180	#ddccff,red	#ddccff,red
-4921	#ddccff,red	#ddccff,red
-1559	#ddccff,red	#ddccff,red
-5562	#ddccff,red	#ddccff,red
-79915	#ddccff,red	#ddccff,red
-27148	#ddccff,red	#ddccff,red
-7301	#ddccff,red	#ddccff,red
-23410	#ddccff,red	#ddccff,red
-10461	#ddccff,red	#ddccff,red
-3645	#ddccff,red	#ddccff,red
-8621	#ddccff,red	#ddccff,red
-9113	#ddccff,red	#ddccff,red
-466	#ddccff,red	#ddccff,red
-676	#ddccff,red	#ddccff,red
-6675	#ddccff,red	#ddccff,red
-14312	#ddccff,red	#ddccff,red
-23774	#ddccff,red	#ddccff,red
-29261	#ddccff,red	#ddccff,red
-64550	#ddccff,red	#ddccff,red
-67473	#ddccff,red	#ddccff,red
-223770	#ddccff,red	#ddccff,red
-398105	#ddccff,red	#ddccff,red
-398457	#ddccff,red	#ddccff,red
-398822	#ddccff,red	#ddccff,red
-887777	#ddccff,red	#ddccff,red
-1091594	#ddccff,red	#ddccff,red
-2718383	#ddccff,red	#ddccff,red
-4550648	#ddccff,red	#ddccff,red
-4699078	#ddccff,red	#ddccff,red
-5212317	#ddccff,red	#ddccff,red
-6226217	#ddccff,red	#ddccff,red
-9221804	#ddccff,red	#ddccff,red
-8900	#ddccff,red	#ddccff,red
-5594	#ddccff,red	#ddccff,red
-5702	#ddccff,red	#ddccff,red
-5705	#ddccff,red	#ddccff,red
-5707	#ddccff,red	#ddccff,red
-5708	#ddccff,red	#ddccff,red
-5709	#ddccff,red	#ddccff,red
-5710	#ddccff,red	#ddccff,red
-5713	#ddccff,red	#ddccff,red
-5714	#ddccff,red	#ddccff,red
-5717	#ddccff,red	#ddccff,red
-5719	#ddccff,red	#ddccff,red
-23476	#ddccff,red	#ddccff,red
-780	#ddccff,red	#ddccff,red
-5600	#ddccff,red	#ddccff,red
-1613	#ddccff,red	#ddccff,red
-5649109	#ddccff,red	#ddccff,red
-18595	#ddccff,red	#ddccff,red
-4321	#ddccff,red	#ddccff,red
-5422	#ddccff,red	#ddccff,red
-8737	#ddccff,red	#ddccff,red
-8899	#ddccff,red	#ddccff,red
-22933	#ddccff,red	#ddccff,red
-2043	#ddccff,red	#ddccff,red
-5605	#ddccff,red	#ddccff,red
-6817	#ddccff,red	#ddccff,red
-902	#ddccff,red	#ddccff,red
-84254	#ddccff,red	#ddccff,red
-102724428	#ddccff,red	#ddccff,red
-890	#ddccff,red	#ddccff,red
-90	#ddccff,red	#ddccff,red
-7048	#ddccff,red	#ddccff,red
-4638	#ddccff,red	#ddccff,red
-100348842	#ddccff,red	#ddccff,red
-5062	#ddccff,red	#ddccff,red
-1576	#ddccff,red	#ddccff,red
-8491	#ddccff,red	#ddccff,red
-190	#ddccff,red	#ddccff,red
-22983	#ddccff,red	#ddccff,red
-23387	#ddccff,red	#ddccff,red
-395694	#ddccff,red	#ddccff,red
-5608	#ddccff,red	#ddccff,red
-29110	#ddccff,red	#ddccff,red
-8999	#ddccff,red	#ddccff,red
-24598	#ddccff,red	#ddccff,red
-2147	#ddccff,red	#ddccff,red
-1536	#ddccff,red	#ddccff,red
-5105	#ddccff,red	#ddccff,red
-5106	#ddccff,red	#ddccff,red
-6553	#ddccff,red	#ddccff,red
-22173	#ddccff,red	#ddccff,red
-27035	#ddccff,red	#ddccff,red
-79400	#ddccff,red	#ddccff,red
-563560	#ddccff,red	#ddccff,red
-25865	#ddccff,red	#ddccff,red
-6795	#ddccff,red	#ddccff,red
-896	#ddccff,red	#ddccff,red
-1024	#ddccff,red	#ddccff,red
-9641	#ddccff,red	#ddccff,red
-8445	#ddccff,red	#ddccff,red
-5727	#ddccff,red	#ddccff,red
-16855	#ddccff,red	#ddccff,red
-24629	#ddccff,red	#ddccff,red
-50686	#ddccff,red	#ddccff,red
-84027	#ddccff,red	#ddccff,red
-2051	#ddccff,red	#ddccff,red
-660	#ddccff,red	#ddccff,red
-1109	#ddccff,red	#ddccff,red
-5563	#ddccff,red	#ddccff,red
-57787	#ddccff,red	#ddccff,red
-140609	#ddccff,red	#ddccff,red
-11113	#ddccff,red	#ddccff,red
-22848	#ddccff,red	#ddccff,red
-2580	#ddccff,red	#ddccff,red
-6778	#ddccff,red	#ddccff,red
-5604	#ddccff,red	#ddccff,red
-2081	#ddccff,red	#ddccff,red
-4190	#ddccff,red	#ddccff,red
-4191	#ddccff,red	#ddccff,red
-904	#ddccff,red	#ddccff,red
-22171	#ddccff,red	#ddccff,red
-4296	#ddccff,red	#ddccff,red
-595	#ddccff,red	#ddccff,red
-13316346	#ddccff,red	#ddccff,red
-3614	#ddccff,red	#ddccff,red
-3615	#ddccff,red	#ddccff,red
-6446	#ddccff,red	#ddccff,red
-1432	#ddccff,red	#ddccff,red
-1612	#ddccff,red	#ddccff,red
-25989	#ddccff,red	#ddccff,red
-1263	#ddccff,red	#ddccff,red
-8986	#ddccff,red	#ddccff,red
-2045	#ddccff,red	#ddccff,red
-85366	#ddccff,red	#ddccff,red
-55872	#ddccff,red	#ddccff,red
-208	#ddccff,red	#ddccff,red
-51776	#ddccff,red	#ddccff,red
-4128	#ddccff,red	#ddccff,red
-9175	#ddccff,red	#ddccff,red
-102800317	#ddccff,red	#ddccff,red
-1387	#ddccff,red	#ddccff,red
-10783	#ddccff,red	#ddccff,red
-24890	#ddccff,red	#ddccff,red
-56924	#ddccff,red	#ddccff,red
-255239	#ddccff,red	#ddccff,red
-3316	#ddccff,red	#ddccff,red
-6608	#ddccff,red	#ddccff,red
-10587	#ddccff,red	#ddccff,red
-55781	#ddccff,red	#ddccff,red
-83732	#ddccff,red	#ddccff,red
-1545	#ddccff,red	#ddccff,red
-11011	#ddccff,red	#ddccff,red
-6622	#ddccff,red	#ddccff,red
-4916	#ddccff,red	#ddccff,red
-3643	#ddccff,red	#ddccff,red
-5568	#ddccff,red	#ddccff,red
-10188	#ddccff,red	#ddccff,red
-317748	#ddccff,red	#ddccff,red
-5290	#ddccff,red	#ddccff,red
-24784	#ddccff,red	#ddccff,red
-287287	#ddccff,red	#ddccff,red
-8780	#ddccff,red	#ddccff,red
-2242	#ddccff,red	#ddccff,red
-695	#ddccff,red	#ddccff,red
-8394	#ddccff,red	#ddccff,red
-10110	#ddccff,red	#ddccff,red
-2066	#ddccff,red	#ddccff,red
-6793	#ddccff,red	#ddccff,red
-64158	#ddccff,red	#ddccff,red
-2869	#ddccff,red	#ddccff,red
-3549	#ddccff,red	#ddccff,red
-6401	#ddccff,red	#ddccff,red
-6469	#ddccff,red	#ddccff,red
-50846	#ddccff,red	#ddccff,red
-65036	#ddccff,red	#ddccff,red
-155871	#ddccff,red	#ddccff,red
-497756	#ddccff,red	#ddccff,red
-100101555	#ddccff,red	#ddccff,red
-100135490	#ddccff,red	#ddccff,red
-100720484	#ddccff,red	#ddccff,red
-100726255	#ddccff,red	#ddccff,red
-100734741	#ddccff,red	#ddccff,red
-2868	#ddccff,red	#ddccff,red
-11213	#ddccff,red	#ddccff,red
-1509	#ddccff,red	#ddccff,red
-2047	#ddccff,red	#ddccff,red
-7535	#ddccff,red	#ddccff,red
-8396	#ddccff,red	#ddccff,red
-57172	#ddccff,red	#ddccff,red
-5609	#ddccff,red	#ddccff,red
-6311	#ddccff,red	#ddccff,red
-142	#ddccff,red	#ddccff,red
-1543	#ddccff,red	#ddccff,red
-8912	#ddccff,red	#ddccff,red
-2642	#ddccff,red	#ddccff,red
-78959	#ddccff,red	#ddccff,red
-293	#ddccff,red	#ddccff,red
-952	#ddccff,red	#ddccff,red
-20517	#ddccff,red	#ddccff,red
-59272	#ddccff,red	#ddccff,red
-79888	#ddccff,red	#ddccff,red
-811773	#ddccff,red	#ddccff,red
-3641348	#ddccff,red	#ddccff,red
-3641414	#ddccff,red	#ddccff,red
-100996758	#ddccff,red	#ddccff,red
-975	#ddccff,red	#ddccff,red
-4860	#ddccff,red	#ddccff,red
-6548	#ddccff,red	#ddccff,red
-24159	#ddccff,red	#ddccff,red
-24782	#ddccff,red	#ddccff,red
-785911	#ddccff,red	#ddccff,red
-100720631	#ddccff,red	#ddccff,red
-369	#ddccff,red	#ddccff,red
-2819	#ddccff,red	#ddccff,red
-2820	#ddccff,red	#ddccff,red
-15930	#ddccff,red	#ddccff,red
-23752	#ddccff,red	#ddccff,red
-24808	#ddccff,red	#ddccff,red
-25340	#ddccff,red	#ddccff,red
-26415	#ddccff,red	#ddccff,red
-171072	#ddccff,red	#ddccff,red
-396592	#ddccff,red	#ddccff,red
-711717	#ddccff,red	#ddccff,red
-1114791	#ddccff,red	#ddccff,red
-10549022	#ddccff,red	#ddccff,red
-3571199	#ddccff,red	#ddccff,red
-1195	#ddccff,red	#ddccff,red
-7150	#ddccff,red	#ddccff,red
-9201	#ddccff,red	#ddccff,red
-10769	#ddccff,red	#ddccff,red
-10645	#ddccff,red	#ddccff,red
-10038	#ddccff,red	#ddccff,red
-5058	#ddccff,red	#ddccff,red
-784	#ddccff,red	#ddccff,red
-785	#ddccff,red	#ddccff,red
-3592	#ddccff,red	#ddccff,red
-3593	#ddccff,red	#ddccff,red
-6583	#ddccff,red	#ddccff,red
-19015	#ddccff,red	#ddccff,red
-56749	#ddccff,red	#ddccff,red
-130399	#ddccff,red	#ddccff,red
-1022	#ddccff,red	#ddccff,red
-2048	#ddccff,red	#ddccff,red
-8711	#ddccff,red	#ddccff,red
-207	#ddccff,red	#ddccff,red
-24230	#ddccff,red	#ddccff,red
-3702	#ddccff,red	#ddccff,red
-5970	#ddccff,red	#ddccff,red
-7296	#ddccff,red	#ddccff,red
-79858	#ddccff,red	#ddccff,red
-5027	#ddccff,red	#ddccff,red
-8644	#ddccff,red	#ddccff,red
-2042	#ddccff,red	#ddccff,red
-23411	#ddccff,red	#ddccff,red
-3725	#ddccff,red	#ddccff,red
-778	#ddccff,red	#ddccff,red
-3565	#ddccff,red	#ddccff,red
-6580	#ddccff,red	#ddccff,red
-80122	#ddccff,red	#ddccff,red
-415116	#ddccff,red	#ddccff,red
-7444	#ddccff,red	#ddccff,red
-24296	#ddccff,red	#ddccff,red
-55351	#ddccff,red	#ddccff,red
-83903	#ddccff,red	#ddccff,red
-682930	#ddccff,red	#ddccff,red
-331	#ddccff,red	#ddccff,red
-14182	#ddccff,red	#ddccff,red
-12933205	#ddccff,red	#ddccff,red
-53904	#ddccff,red	#ddccff,red
-1198	#ddccff,red	#ddccff,red
-2044	#ddccff,red	#ddccff,red
-27	#ddccff,red	#ddccff,red
-316	#ddccff,red	#ddccff,red
-196	#ddccff,red	#ddccff,red
-7498	#ddccff,red	#ddccff,red
-6098	#ddccff,red	#ddccff,red
-540446	#ddccff,red	#ddccff,red
-9149	#ddccff,red	#ddccff,red
-11040	#ddccff,red	#ddccff,red
-4170	#ddccff,red	#ddccff,red
-9134	#ddccff,red	#ddccff,red
-814	#ddccff,red	#ddccff,red
-7006	#ddccff,red	#ddccff,red
-15499	#ddccff,red	#ddccff,red
-24660	#ddccff,red	#ddccff,red
-100	#ddccff,red	#ddccff,red
-2247	#ddccff,red	#ddccff,red
-12801	#ddccff,red	#ddccff,red
-50508	#ddccff,red	#ddccff,red
-100135627	#ddccff,red	#ddccff,red
-658	#ddccff,red	#ddccff,red
-4215	#ddccff,red	#ddccff,red
-57118	#ddccff,red	#ddccff,red
-51135	#ddccff,red	#ddccff,red
-920	#ddccff,red	#ddccff,red
-19713	#ddccff,red	#ddccff,red
-100009585	#ddccff,red	#ddccff,red
-100327259	#ddccff,red	#ddccff,red
-285220	#ddccff,red	#ddccff,red
-5127	#ddccff,red	#ddccff,red
-3553	#ddccff,red	#ddccff,red
-5965	#ddccff,red	#ddccff,red
-246	#ddccff,red	#ddccff,red
-16542	#ddccff,red	#ddccff,red
-978	#ddccff,red	#ddccff,red
-6898	#ddccff,red	#ddccff,red
-361523	#ddccff,red	#ddccff,red
-5585	#ddccff,red	#ddccff,red
-8576	#ddccff,red	#ddccff,red
-951475	#ddccff,red	#ddccff,red
-5347	#ddccff,red	#ddccff,red
-5429	#ddccff,red	#ddccff,red
-100135548	#ddccff,red	#ddccff,red
-1633	#ddccff,red	#ddccff,red
-6869	#ddccff,red	#ddccff,red
-6549	#ddccff,red	#ddccff,red
-240	#ddccff,red	#ddccff,red
-5142	#ddccff,red	#ddccff,red
-2023	#ddccff,red	#ddccff,red
-3098	#ddccff,red	#ddccff,red
-3099	#ddccff,red	#ddccff,red
-3101	#ddccff,red	#ddccff,red
-4507	#ddccff,red	#ddccff,red
-5045	#ddccff,red	#ddccff,red
-5540	#ddccff,red	#ddccff,red
-11647	#ddccff,red	#ddccff,red
-12675	#ddccff,red	#ddccff,red
-12772	#ddccff,red	#ddccff,red
-13548	#ddccff,red	#ddccff,red
-29735	#ddccff,red	#ddccff,red
-51110	#ddccff,red	#ddccff,red
-76768	#ddccff,red	#ddccff,red
-109899	#ddccff,red	#ddccff,red
-114294	#ddccff,red	#ddccff,red
-116590	#ddccff,red	#ddccff,red
-145567	#ddccff,red	#ddccff,red
-256281	#ddccff,red	#ddccff,red
-678683	#ddccff,red	#ddccff,red
-2774506	#ddccff,red	#ddccff,red
-2775589	#ddccff,red	#ddccff,red
-2776664	#ddccff,red	#ddccff,red
-3168364	#ddccff,red	#ddccff,red
-3169356	#ddccff,red	#ddccff,red
-3169567	#ddccff,red	#ddccff,red
-4098731	#ddccff,red	#ddccff,red
-5287	#ddccff,red	#ddccff,red
-55561	#ddccff,red	#ddccff,red
-6582	#ddccff,red	#ddccff,red
-8444	#ddccff,red	#ddccff,red
-783	#ddccff,red	#ddccff,red
-4752	#ddccff,red	#ddccff,red
-8911	#ddccff,red	#ddccff,red
-8913	#ddccff,red	#ddccff,red
-814099	#ddccff,red	#ddccff,red
-782	#ddccff,red	#ddccff,red
-11689	#ddccff,red	#ddccff,red
-11820	#ddccff,red	#ddccff,red
-16453	#ddccff,red	#ddccff,red
-5294	#ddccff,red	#ddccff,red
-5144	#ddccff,red	#ddccff,red
-1969	#ddccff,red	#ddccff,red
-11184	#ddccff,red	#ddccff,red
-3480	#ddccff,red	#ddccff,red
-4137	#ddccff,red	#ddccff,red
-898	#ddccff,red	#ddccff,red
-538	#ddccff,red	#ddccff,red
-1646	#ddccff,red	#ddccff,red
-2041	#ddccff,red	#ddccff,red
-1132	#ddccff,red	#ddccff,red
-440275	#ddccff,red	#ddccff,red
-134	#ddccff,red	#ddccff,red
-7849	#ddccff,red	#ddccff,red
-57551	#ddccff,red	#ddccff,red
-1018	#ddccff,red	#ddccff,red
-6868	#ddccff,red	#ddccff,red
-24239	#ddccff,red	#ddccff,red
-5606	#ddccff,red	#ddccff,red
-2046	#ddccff,red	#ddccff,red
-6513	#ddccff,red	#ddccff,red
-852254	#ddccff,red	#ddccff,red
-938625	#ddccff,red	#ddccff,red
-759	#ddccff,red	#ddccff,red
-2796	#ddccff,red	#ddccff,red
-2798	#ddccff,red	#ddccff,red
-8788	#ddccff,red	#ddccff,red
-9970	#ddccff,red	#ddccff,red
-10392	#ddccff,red	#ddccff,red
-25007	#ddccff,red	#ddccff,red
-57337	#ddccff,red	#ddccff,red
-282041	#ddccff,red	#ddccff,red
-396445	#ddccff,red	#ddccff,red
-100135549	#ddccff,red	#ddccff,red
-4088	#ddccff,red	#ddccff,red
-204851	#ddccff,red	#ddccff,red
-3782	#ddccff,red	#ddccff,red
-5288	#ddccff,red	#ddccff,red
-109731	#ddccff,red	#ddccff,red
-5129	#ddccff,red	#ddccff,red
-8517	#ddccff,red	#ddccff,red
-12802	#ddccff,red	#ddccff,red
-100135626	#ddccff,red	#ddccff,red
-1574	#ddccff,red	#ddccff,red
-55589	#ddccff,red	#ddccff,red
-774	#ddccff,red	#ddccff,red
-24950	#ddccff,red	#ddccff,red
-5598	#ddccff,red	#ddccff,red
-29716	#ddccff,red	#ddccff,red
-2833	#ddccff,red	#ddccff,red
-4791	#ddccff,red	#ddccff,red
-319757	#ddccff,red	#ddccff,red
-443530	#ddccff,red	#ddccff,red
-613024	#ddccff,red	#ddccff,red
-101825598	#ddccff,red	#ddccff,red
-101825859	#ddccff,red	#ddccff,red
-6011	#ddccff,red	#ddccff,red
-64677	#ddccff,red	#ddccff,red
-4751	#ddccff,red	#ddccff,red
-81788	#ddccff,red	#ddccff,red
-1557	#ddccff,red	#ddccff,red
-23621	#ddccff,red	#ddccff,red
-26524	#ddccff,red	#ddccff,red
-1072	#ddccff,red	#ddccff,red
-1073	#ddccff,red	#ddccff,red
-1386	#ddccff,red	#ddccff,red
-1621	#ddccff,red	#ddccff,red
-2539	#ddccff,red	#ddccff,red
-3297	#ddccff,red	#ddccff,red
-5297	#ddccff,red	#ddccff,red
-6955	#ddccff,red	#ddccff,red
-6957	#ddccff,red	#ddccff,red
-6965	#ddccff,red	#ddccff,red
-8678	#ddccff,red	#ddccff,red
-11541	#ddccff,red	#ddccff,red
-12169	#ddccff,red	#ddccff,red
-14255	#ddccff,red	#ddccff,red
-17096	#ddccff,red	#ddccff,red
-18761	#ddccff,red	#ddccff,red
-19072	#ddccff,red	#ddccff,red
-20607	#ddccff,red	#ddccff,red
-20779	#ddccff,red	#ddccff,red
-22820	#ddccff,red	#ddccff,red
-22870	#ddccff,red	#ddccff,red
-55291	#ddccff,red	#ddccff,red
-56637	#ddccff,red	#ddccff,red
-57143	#ddccff,red	#ddccff,red
-57217	#ddccff,red	#ddccff,red
-58813	#ddccff,red	#ddccff,red
-83471	#ddccff,red	#ddccff,red
-92745	#ddccff,red	#ddccff,red
-171384	#ddccff,red	#ddccff,red
-281607	#ddccff,red	#ddccff,red
-286818	#ddccff,red	#ddccff,red
-403410	#ddccff,red	#ddccff,red
-407157	#ddccff,red	#ddccff,red
-445540	#ddccff,red	#ddccff,red
-1121139	#ddccff,red	#ddccff,red
-13319491	#ddccff,red	#ddccff,red
-100008951	#ddccff,red	#ddccff,red
-100135647	#ddccff,red	#ddccff,red
-100144322	#ddccff,red	#ddccff,red
-100343957	#ddccff,red	#ddccff,red
-100717592	#ddccff,red	#ddccff,red
-729230	#ddccff,red	#ddccff,red
-20423	#ddccff,red	#ddccff,red
-4758	#ddccff,red	#ddccff,red
-4759	#ddccff,red	#ddccff,red
-10825	#ddccff,red	#ddccff,red
-23396	#ddccff,red	#ddccff,red
-84630	#ddccff,red	#ddccff,red
-146057	#ddccff,red	#ddccff,red
-9971	#ddccff,red	#ddccff,red
-29290	#ddccff,red	#ddccff,red
-43	#ddccff,red	#ddccff,red
-10988	#ddccff,red	#ddccff,red
-140469	#ddccff,red	#ddccff,red
-4282	#ddccff,red	#ddccff,red
-7465	#ddccff,red	#ddccff,red
-1592	#ddccff,red	#ddccff,red
-7042	#ddccff,red	#ddccff,red
-7043	#ddccff,red	#ddccff,red
-29503	#ddccff,red	#ddccff,red
-397309	#ddccff,red	#ddccff,red
-5468	#ddccff,red	#ddccff,red
-51347	#ddccff,red	#ddccff,red
-9262	#ddccff,red	#ddccff,red
-27347	#ddccff,red	#ddccff,red
-1459	#ddccff,red	#ddccff,red
-396910	#ddccff,red	#ddccff,red
-403881	#ddccff,red	#ddccff,red
-239	#ddccff,red	#ddccff,red
-1241	#ddccff,red	#ddccff,red
-1544	#ddccff,red	#ddccff,red
-3783	#ddccff,red	#ddccff,red
-56848	#ddccff,red	#ddccff,red
-24680	#ddccff,red	#ddccff,red
-24681	#ddccff,red	#ddccff,red
-25023	#ddccff,red	#ddccff,red
-25522	#ddccff,red	#ddccff,red
-29340	#ddccff,red	#ddccff,red
-81749	#ddccff,red	#ddccff,red
-85420	#ddccff,red	#ddccff,red
-170538	#ddccff,red	#ddccff,red
-2778	#ddccff,red	#ddccff,red
-51426	#ddccff,red	#ddccff,red
-10000	#ddccff,red	#ddccff,red
-23435	#ddccff,red	#ddccff,red
-100009114	#ddccff,red	#ddccff,red
-673	#ddccff,red	#ddccff,red
-3738	#ddccff,red	#ddccff,red
-396319	#ddccff,red	#ddccff,red
-396338	#ddccff,red	#ddccff,red
-320	#ddccff,red	#ddccff,red
-1374	#ddccff,red	#ddccff,red
-3939	#ddccff,red	#ddccff,red
-6550	#ddccff,red	#ddccff,red
-6584	#ddccff,red	#ddccff,red
-7423	#ddccff,red	#ddccff,red
-11648	#ddccff,red	#ddccff,red
-12978	#ddccff,red	#ddccff,red
-16187	#ddccff,red	#ddccff,red
-19882	#ddccff,red	#ddccff,red
-19886	#ddccff,red	#ddccff,red
-21846	#ddccff,red	#ddccff,red
-22637	#ddccff,red	#ddccff,red
-26054	#ddccff,red	#ddccff,red
-26420	#ddccff,red	#ddccff,red
-77337	#ddccff,red	#ddccff,red
-281293	#ddccff,red	#ddccff,red
-12931141	#ddccff,red	#ddccff,red
-100009430	#ddccff,red	#ddccff,red
-131890	#ddccff,red	#ddccff,red
-1234	#ddccff,red	#ddccff,red
-2564	#ddccff,red	#ddccff,red
-779	#ddccff,red	#ddccff,red
-5291	#ddccff,red	#ddccff,red
-1584	#ddccff,red	#ddccff,red
-2739	#ddccff,red	#ddccff,red
-8798	#ddccff,red	#ddccff,red
-8854	#ddccff,red	#ddccff,red
-25149	#ddccff,red	#ddccff,red
-100009094	#ddccff,red	#ddccff,red
-1120	#ddccff,red	#ddccff,red
-4889	#ddccff,red	#ddccff,red
-6870	#ddccff,red	#ddccff,red
-15566	#ddccff,red	#ddccff,red
-51311	#ddccff,red	#ddccff,red
-54861	#ddccff,red	#ddccff,red
-282301	#ddccff,red	#ddccff,red
-527165	#ddccff,red	#ddccff,red
-7294	#ddccff,red	#ddccff,red
-7066	#ddccff,red	#ddccff,red
-10495	#ddccff,red	#ddccff,red
-4129	#ddccff,red	#ddccff,red
-54101	#ddccff,red	#ddccff,red
-598	#ddccff,red	#ddccff,red
-2859	#ddccff,red	#ddccff,red
-4294	#ddccff,red	#ddccff,red
-396442	#ddccff,red	#ddccff,red
-3091	#ddccff,red	#ddccff,red
-216	#ddccff,red	#ddccff,red
-590	#ddccff,red	#ddccff,red
-5999	#ddccff,red	#ddccff,red
-25248	#ddccff,red	#ddccff,red
-624	#ddccff,red	#ddccff,red
-3984	#ddccff,red	#ddccff,red
-3028	#ddccff,red	#ddccff,red
-54106	#ddccff,red	#ddccff,red
-1158731	#ddccff,red	#ddccff,red
-649	#ddccff,red	#ddccff,red
-4830	#ddccff,red	#ddccff,red
-4831	#ddccff,red	#ddccff,red
-5537	#ddccff,red	#ddccff,red
-24653	#ddccff,red	#ddccff,red
-54305	#ddccff,red	#ddccff,red
-281958	#ddccff,red	#ddccff,red
-282323	#ddccff,red	#ddccff,red
-2237	#ddccff,red	#ddccff,red
-1128	#ddccff,red	#ddccff,red
-2950	#ddccff,red	#ddccff,red
-5328	#ddccff,red	#ddccff,red
-7786	#ddccff,red	#ddccff,red
-13315991	#ddccff,red	#ddccff,red
-11201	#ddccff,red	#ddccff,red
-7253	#ddccff,red	#ddccff,red
-776	#ddccff,red	#ddccff,red
-855242	#ddccff,red	#ddccff,red
-5423	#ddccff,red	#ddccff,red
-8729	#ddccff,red	#ddccff,red
-10564	#ddccff,red	#ddccff,red
-10565	#ddccff,red	#ddccff,red
-24303	#ddccff,red	#ddccff,red
-29295	#ddccff,red	#ddccff,red
-51284	#ddccff,red	#ddccff,red
-266684	#ddccff,red	#ddccff,red
-286953	#ddccff,red	#ddccff,red
-286963	#ddccff,red	#ddccff,red
-292728	#ddccff,red	#ddccff,red
-100301563	#ddccff,red	#ddccff,red
-10746	#ddccff,red	#ddccff,red
-1585	#ddccff,red	#ddccff,red
-6579	#ddccff,red	#ddccff,red
-9290	#ddccff,red	#ddccff,red
-25154	#ddccff,red	#ddccff,red
-55315	#ddccff,red	#ddccff,red
-222962	#ddccff,red	#ddccff,red
-775	#ddccff,red	#ddccff,red
-12932805	#ddccff,red	#ddccff,red
-231	#ddccff,red	#ddccff,red
-9344	#ddccff,red	#ddccff,red
-496	#ddccff,red	#ddccff,red
-501	#ddccff,red	#ddccff,red
-973	#ddccff,red	#ddccff,red
-974	#ddccff,red	#ddccff,red
-1394	#ddccff,red	#ddccff,red
-1806	#ddccff,red	#ddccff,red
-2249	#ddccff,red	#ddccff,red
-2252	#ddccff,red	#ddccff,red
-2253	#ddccff,red	#ddccff,red
-2255	#ddccff,red	#ddccff,red
-2257	#ddccff,red	#ddccff,red
-2258	#ddccff,red	#ddccff,red
-3497	#ddccff,red	#ddccff,red
-3567	#ddccff,red	#ddccff,red
-3656	#ddccff,red	#ddccff,red
-5564	#ddccff,red	#ddccff,red
-5565	#ddccff,red	#ddccff,red
-5571	#ddccff,red	#ddccff,red
-6566	#ddccff,red	#ddccff,red
-8817	#ddccff,red	#ddccff,red
-8822	#ddccff,red	#ddccff,red
-8829	#ddccff,red	#ddccff,red
-12534	#ddccff,red	#ddccff,red
-16337	#ddccff,red	#ddccff,red
-19879	#ddccff,red	#ddccff,red
-24385	#ddccff,red	#ddccff,red
-26357	#ddccff,red	#ddccff,red
-29465	#ddccff,red	#ddccff,red
-30849	#ddccff,red	#ddccff,red
-51393	#ddccff,red	#ddccff,red
-51422	#ddccff,red	#ddccff,red
-53632	#ddccff,red	#ddccff,red
-66026	#ddccff,red	#ddccff,red
-81539	#ddccff,red	#ddccff,red
-81640	#ddccff,red	#ddccff,red
-209176	#ddccff,red	#ddccff,red
-347527	#ddccff,red	#ddccff,red
-617917	#ddccff,red	#ddccff,red
-694181	#ddccff,red	#ddccff,red
-923602	#ddccff,red	#ddccff,red
-924440	#ddccff,red	#ddccff,red
-939223	#ddccff,red	#ddccff,red
-100009586	#ddccff,red	#ddccff,red
-100135466	#ddccff,red	#ddccff,red
-100622149	#ddccff,red	#ddccff,red
-83523	#ddccff,red	#ddccff,red
-4544	#ddccff,red	#ddccff,red
-773	#ddccff,red	#ddccff,red
-6581	#ddccff,red	#ddccff,red
-6777	#ddccff,red	#ddccff,red
-7040	#ddccff,red	#ddccff,red
-7412	#ddccff,red	#ddccff,red
-5293	#ddccff,red	#ddccff,red
-1119	#ddccff,red	#ddccff,red
-5150	#ddccff,red	#ddccff,red
-6327	#ddccff,red	#ddccff,red
-27115	#ddccff,red	#ddccff,red
-29277	#ddccff,red	#ddccff,red
-56274	#ddccff,red	#ddccff,red
-1460	#ddccff,red	#ddccff,red
-1129	#ddccff,red	#ddccff,red
-6256	#ddccff,red	#ddccff,red
-5218	#ddccff,red	#ddccff,red
-7299	#ddccff,red	#ddccff,red
-596	#ddccff,red	#ddccff,red
-85443	#ddccff,red	#ddccff,red
-3735	#ddccff,red	#ddccff,red
-79934	#ddccff,red	#ddccff,red
-518675	#ddccff,red	#ddccff,red
-5610	#ddccff,red	#ddccff,red
-2155	#ddccff,red	#ddccff,red
-2847	#ddccff,red	#ddccff,red
-4161	#ddccff,red	#ddccff,red
-17295	#ddccff,red	#ddccff,red
-277328	#ddccff,red	#ddccff,red
-312896	#ddccff,red	#ddccff,red
-1489531	#ddccff,red	#ddccff,red
-4318	#ddccff,red	#ddccff,red
-11329	#ddccff,red	#ddccff,red
-24297	#ddccff,red	#ddccff,red
-171522	#ddccff,red	#ddccff,red
-15550	#ddccff,red	#ddccff,red
-9578	#ddccff,red	#ddccff,red
-22875	#ddccff,red	#ddccff,red
-22858	#ddccff,red	#ddccff,red
-140901	#ddccff,red	#ddccff,red
-5742	#ddccff,red	#ddccff,red
-3780	#ddccff,red	#ddccff,red
-5128	#ddccff,red	#ddccff,red
-57014	#ddccff,red	#ddccff,red
-1445	#ddccff,red	#ddccff,red
-5591	#ddccff,red	#ddccff,red
-9682	#ddccff,red	#ddccff,red
-5980	#ddccff,red	#ddccff,red
-861	#ddccff,red	#ddccff,red
-865	#ddccff,red	#ddccff,red
-23012	#ddccff,red	#ddccff,red
-24300	#ddccff,red	#ddccff,red
-760	#ddccff,red	#ddccff,red
-1950	#ddccff,red	#ddccff,red
-3700	#ddccff,red	#ddccff,red
-4886	#ddccff,red	#ddccff,red
-4887	#ddccff,red	#ddccff,red
-5319	#ddccff,red	#ddccff,red
-6772	#ddccff,red	#ddccff,red
-12766	#ddccff,red	#ddccff,red
-282322	#ddccff,red	#ddccff,red
-404074	#ddccff,red	#ddccff,red
-618607	#ddccff,red	#ddccff,red
-100302667	#ddccff,red	#ddccff,red
-100714172	#ddccff,red	#ddccff,red
-100731540	#ddccff,red	#ddccff,red
-873	#ddccff,red	#ddccff,red
-4154	#ddccff,red	#ddccff,red
-4363	#ddccff,red	#ddccff,red
-7941	#ddccff,red	#ddccff,red
-9706	#ddccff,red	#ddccff,red
-672	#ddccff,red	#ddccff,red
-3320	#ddccff,red	#ddccff,red
-8856	#ddccff,red	#ddccff,red
-4145	#ddccff,red	#ddccff,red
-71742	#ddccff,red	#ddccff,red
-389840	#ddccff,red	#ddccff,red
-6097	#ddccff,red	#ddccff,red
-84006	#ddccff,red	#ddccff,red
-1991	#ddccff,red	#ddccff,red
-2565	#ddccff,red	#ddccff,red
-2567	#ddccff,red	#ddccff,red
-2568	#ddccff,red	#ddccff,red
-3781	#ddccff,red	#ddccff,red
-6753	#ddccff,red	#ddccff,red
-14254	#ddccff,red	#ddccff,red
-24360	#ddccff,red	#ddccff,red
-55879	#ddccff,red	#ddccff,red
-1269	#ddccff,red	#ddccff,red
-1786	#ddccff,red	#ddccff,red
-407136	#ddccff,red	#ddccff,red
-220	#ddccff,red	#ddccff,red
-262	#ddccff,red	#ddccff,red
-652	#ddccff,red	#ddccff,red
-2641	#ddccff,red	#ddccff,red
-5741	#ddccff,red	#ddccff,red
-7067	#ddccff,red	#ddccff,red
-7915	#ddccff,red	#ddccff,red
-10840	#ddccff,red	#ddccff,red
-16001	#ddccff,red	#ddccff,red
-23173	#ddccff,red	#ddccff,red
-24267	#ddccff,red	#ddccff,red
-25033	#ddccff,red	#ddccff,red
-80271	#ddccff,red	#ddccff,red
-160428	#ddccff,red	#ddccff,red
-338442	#ddccff,red	#ddccff,red
-395605	#ddccff,red	#ddccff,red
-395606	#ddccff,red	#ddccff,red
-100038021	#ddccff,red	#ddccff,red
-100135518	#ddccff,red	#ddccff,red
-100727842	#ddccff,red	#ddccff,red
-101093058	#ddccff,red	#ddccff,red
-101099637	#ddccff,red	#ddccff,red
-24947	#ddccff,red	#ddccff,red
-25255	#ddccff,red	#ddccff,red
-29707	#ddccff,red	#ddccff,red
-29708	#ddccff,red	#ddccff,red
-140675	#ddccff,red	#ddccff,red
-24192	#ddccff,red	#ddccff,red
-6199	#ddccff,red	#ddccff,red
-4843	#ddccff,red	#ddccff,red
-8569	#ddccff,red	#ddccff,red
-328	#ddccff,red	#ddccff,red
-1586	#ddccff,red	#ddccff,red
-2030	#ddccff,red	#ddccff,red
-2563	#ddccff,red	#ddccff,red
-5295	#ddccff,red	#ddccff,red
-6754	#ddccff,red	#ddccff,red
-6774	#ddccff,red	#ddccff,red
-6792	#ddccff,red	#ddccff,red
-659	#ddccff,red	#ddccff,red
-9943	#ddccff,red	#ddccff,red
-1787	#ddccff,red	#ddccff,red
-1788	#ddccff,red	#ddccff,red
-1789	#ddccff,red	#ddccff,red
-397131	#ddccff,red	#ddccff,red
-4988	#ddccff,red	#ddccff,red
-613	#ddccff,red	#ddccff,red
-1577	#ddccff,red	#ddccff,red
-7184	#ddccff,red	#ddccff,red
-289606	#ddccff,red	#ddccff,red
-151306	#ddccff,red	#ddccff,red
-25290	#ddccff,red	#ddccff,red
-25053	#ddccff,red	#ddccff,red
-167359	#ddccff,red	#ddccff,red
-100130827	#ddccff,red	#ddccff,red
-3294	#ddccff,red	#ddccff,red
-5597	#ddccff,red	#ddccff,red
-6783	#ddccff,red	#ddccff,red
-14073	#ddccff,red	#ddccff,red
-100008972	#ddccff,red	#ddccff,red
-5243	#ddccff,red	#ddccff,red
-29705	#ddccff,red	#ddccff,red
-1268	#ddccff,red	#ddccff,red
-287609	#ddccff,red	#ddccff,red
-5747	#ddccff,red	#ddccff,red
-6752	#ddccff,red	#ddccff,red
-6755	#ddccff,red	#ddccff,red
-51765	#ddccff,red	#ddccff,red
-1571	#ddccff,red	#ddccff,red
-55244	#ddccff,red	#ddccff,red
-403882	#ddccff,red	#ddccff,red
-3656265	#ddccff,red	#ddccff,red
-15561	#ddccff,red	#ddccff,red
-247	#ddccff,red	#ddccff,red
-217	#ddccff,red	#ddccff,red
-219	#ddccff,red	#ddccff,red
-994	#ddccff,red	#ddccff,red
-4117	#ddccff,red	#ddccff,red
-5915	#ddccff,red	#ddccff,red
-8503	#ddccff,red	#ddccff,red
-8814	#ddccff,red	#ddccff,red
-24889	#ddccff,red	#ddccff,red
-170698	#ddccff,red	#ddccff,red
-396318	#ddccff,red	#ddccff,red
-813594	#ddccff,red	#ddccff,red
-856395	#ddccff,red	#ddccff,red
-3177	#ddccff,red	#ddccff,red
-3383	#ddccff,red	#ddccff,red
-2744	#ddccff,red	#ddccff,red
-18391	#ddccff,red	#ddccff,red
-5376	#ddccff,red	#ddccff,red
-4864	#ddccff,red	#ddccff,red
-3767	#ddccff,red	#ddccff,red
-6751	#ddccff,red	#ddccff,red
-11309	#ddccff,red	#ddccff,red
-7153	#ddccff,red	#ddccff,red
-1812	#ddccff,red	#ddccff,red
-338	#ddccff,red	#ddccff,red
-412	#ddccff,red	#ddccff,red
-495	#ddccff,red	#ddccff,red
-2224	#ddccff,red	#ddccff,red
-2246	#ddccff,red	#ddccff,red
-3736	#ddccff,red	#ddccff,red
-4907	#ddccff,red	#ddccff,red
-5296	#ddccff,red	#ddccff,red
-5321	#ddccff,red	#ddccff,red
-6336	#ddccff,red	#ddccff,red
-16818	#ddccff,red	#ddccff,red
-114211	#ddccff,red	#ddccff,red
-192646	#ddccff,red	#ddccff,red
-341676	#ddccff,red	#ddccff,red
-397552	#ddccff,red	#ddccff,red
-13318096	#ddccff,red	#ddccff,red
-100009164	#ddccff,red	#ddccff,red
-1131	#ddccff,red	#ddccff,red
-9874	#ddccff,red	#ddccff,red
-15563	#ddccff,red	#ddccff,red
-4316	#ddccff,red	#ddccff,red
-5298	#ddccff,red	#ddccff,red
-6546	#ddccff,red	#ddccff,red
-23491	#ddccff,red	#ddccff,red
-51716	#ddccff,red	#ddccff,red
-221223	#ddccff,red	#ddccff,red
-1573	#ddccff,red	#ddccff,red
-5916	#ddccff,red	#ddccff,red
-7424	#ddccff,red	#ddccff,red
-91754	#ddccff,red	#ddccff,red
-8408	#ddccff,red	#ddccff,red
-1139	#ddccff,red	#ddccff,red
-100526835	#ddccff,red	#ddccff,red
-2560	#ddccff,red	#ddccff,red
-135	#ddccff,red	#ddccff,red
-1080	#ddccff,red	#ddccff,red
-894	#ddccff,red	#ddccff,red
-23097	#ddccff,red	#ddccff,red
-19885	#ddccff,red	#ddccff,red
-18669	#ddccff,red	#ddccff,red
-60489	#ddccff,red	#ddccff,red
-64354	#ddccff,red	#ddccff,red
-2152	#ddccff,red	#ddccff,red
-4547	#ddccff,red	#ddccff,red
-4953	#ddccff,red	#ddccff,red
-12747	#ddccff,red	#ddccff,red
-51265	#ddccff,red	#ddccff,red
-81657	#ddccff,red	#ddccff,red
-83633	#ddccff,red	#ddccff,red
-13319464	#ddccff,red	#ddccff,red
-84580	#ddccff,red	#ddccff,red
-9376	#ddccff,red	#ddccff,red
-6916	#ddccff,red	#ddccff,red
-4543	#ddccff,red	#ddccff,red
-3326	#ddccff,red	#ddccff,red
-13649	#ddccff,red	#ddccff,red
-657	#ddccff,red	#ddccff,red
-846	#ddccff,red	#ddccff,red
-2597	#ddccff,red	#ddccff,red
-3676	#ddccff,red	#ddccff,red
-3706	#ddccff,red	#ddccff,red
-3707	#ddccff,red	#ddccff,red
-3990	#ddccff,red	#ddccff,red
-5137	#ddccff,red	#ddccff,red
-5550	#ddccff,red	#ddccff,red
-5617	#ddccff,red	#ddccff,red
-6348	#ddccff,red	#ddccff,red
-9254	#ddccff,red	#ddccff,red
-178296	#ddccff,red	#ddccff,red
-308451	#ddccff,red	#ddccff,red
-136	#ddccff,red	#ddccff,red
-57144	#ddccff,red	#ddccff,red
-403963	#ddccff,red	#ddccff,red
-4835	#ddccff,red	#ddccff,red
-5311	#ddccff,red	#ddccff,red
-24922	#ddccff,red	#ddccff,red
-25450	#ddccff,red	#ddccff,red
-25451	#ddccff,red	#ddccff,red
-29689	#ddccff,red	#ddccff,red
-29709	#ddccff,red	#ddccff,red
-65187	#ddccff,red	#ddccff,red
-65191	#ddccff,red	#ddccff,red
-79211	#ddccff,red	#ddccff,red
-81658	#ddccff,red	#ddccff,red
-140674	#ddccff,red	#ddccff,red
-574190	#ddccff,red	#ddccff,red
-185	#ddccff,red	#ddccff,red
-186	#ddccff,red	#ddccff,red
-1513	#ddccff,red	#ddccff,red
-1990	#ddccff,red	#ddccff,red
-83810	#ddccff,red	#ddccff,red
-100911581	#ddccff,red	#ddccff,red
-706	#ddccff,red	#ddccff,red
-25101	#ddccff,red	#ddccff,red
-29253	#ddccff,red	#ddccff,red
-5465	#ddccff,red	#ddccff,red
-24410	#ddccff,red	#ddccff,red
-281125	#ddccff,red	#ddccff,red
-5300	#ddccff,red	#ddccff,red
-24408	#ddccff,red	#ddccff,red
-5914	#ddccff,red	#ddccff,red
-18126	#ddccff,red	#ddccff,red
-6323	#ddccff,red	#ddccff,red
-6328	#ddccff,red	#ddccff,red
-25103	#ddccff,red	#ddccff,red
-8824	#ddccff,red	#ddccff,red
-100144471	#ddccff,red	#ddccff,red
-100519931	#ddccff,red	#ddccff,red
-1133	#ddccff,red	#ddccff,red
-4312	#ddccff,red	#ddccff,red
-1578	#ddccff,red	#ddccff,red
-2911	#ddccff,red	#ddccff,red
-2915	#ddccff,red	#ddccff,red
-7398	#ddccff,red	#ddccff,red
-64816	#ddccff,red	#ddccff,red
-79424	#ddccff,red	#ddccff,red
-2559	#ddccff,red	#ddccff,red
-2561	#ddccff,red	#ddccff,red
-762	#ddccff,red	#ddccff,red
-7155	#ddccff,red	#ddccff,red
-842	#ddccff,red	#ddccff,red
-1312	#ddccff,red	#ddccff,red
-5153	#ddccff,red	#ddccff,red
-7486	#ddccff,red	#ddccff,red
-9568	#ddccff,red	#ddccff,red
-10257	#ddccff,red	#ddccff,red
-14257	#ddccff,red	#ddccff,red
-24182	#ddccff,red	#ddccff,red
-81638	#ddccff,red	#ddccff,red
-4357161	#ddccff,red	#ddccff,red
-13319863	#ddccff,red	#ddccff,red
-3248	#ddccff,red	#ddccff,red
-4297	#ddccff,red	#ddccff,red
-2222	#ddccff,red	#ddccff,red
-3985	#ddccff,red	#ddccff,red
-5136	#ddccff,red	#ddccff,red
-29347	#ddccff,red	#ddccff,red
-13869177	#ddccff,red	#ddccff,red
-407137	#ddccff,red	#ddccff,red
-9429	#ddccff,red	#ddccff,red
-1760	#ddccff,red	#ddccff,red
-2166	#ddccff,red	#ddccff,red
-6725	#ddccff,red	#ddccff,red
-6822	#ddccff,red	#ddccff,red
-18671	#ddccff,red	#ddccff,red
-3620	#ddccff,red	#ddccff,red
-4216	#ddccff,red	#ddccff,red
-100526081	#ddccff,red	#ddccff,red
-781	#ddccff,red	#ddccff,red
-841	#ddccff,red	#ddccff,red
-2550	#ddccff,red	#ddccff,red
-3061	#ddccff,red	#ddccff,red
-6257	#ddccff,red	#ddccff,red
-19016	#ddccff,red	#ddccff,red
-24180	#ddccff,red	#ddccff,red
-57302	#ddccff,red	#ddccff,red
-65061	#ddccff,red	#ddccff,red
-83817	#ddccff,red	#ddccff,red
-526221	#ddccff,red	#ddccff,red
-100135589	#ddccff,red	#ddccff,red
-388228	#ddccff,red	#ddccff,red
-1558	#ddccff,red	#ddccff,red
-155348	#ddccff,red	#ddccff,red
-1066	#ddccff,red	#ddccff,red
-140	#ddccff,red	#ddccff,red
-3630	#ddccff,red	#ddccff,red
-93	#ddccff,red	#ddccff,red
-94	#ddccff,red	#ddccff,red
-840	#ddccff,red	#ddccff,red
-4353	#ddccff,red	#ddccff,red
-5770	#ddccff,red	#ddccff,red
-13317197	#ddccff,red	#ddccff,red
-100135540	#ddccff,red	#ddccff,red
-9256	#ddccff,red	#ddccff,red
-2557	#ddccff,red	#ddccff,red
-9099	#ddccff,red	#ddccff,red
-2475	#ddccff,red	#ddccff,red
-29336	#ddccff,red	#ddccff,red
-3062	#ddccff,red	#ddccff,red
-3757	#ddccff,red	#ddccff,red
-58819	#ddccff,red	#ddccff,red
-25229	#ddccff,red	#ddccff,red
-5143	#ddccff,red	#ddccff,red
-855692	#ddccff,red	#ddccff,red
-12932283	#ddccff,red	#ddccff,red
-2558	#ddccff,red	#ddccff,red
-2562	#ddccff,red	#ddccff,red
-2566	#ddccff,red	#ddccff,red
-5595	#ddccff,red	#ddccff,red
-7442	#ddccff,red	#ddccff,red
-29316	#ddccff,red	#ddccff,red
-10951	#ddccff,red	#ddccff,red
-2556	#ddccff,red	#ddccff,red
-25369	#ddccff,red	#ddccff,red
-25825	#ddccff,red	#ddccff,red
-1143	#ddccff,red	#ddccff,red
-3292	#ddccff,red	#ddccff,red
-225689	#ddccff,red	#ddccff,red
-2555	#ddccff,red	#ddccff,red
-24409	#ddccff,red	#ddccff,red
-24412	#ddccff,red	#ddccff,red
-28234	#ddccff,red	#ddccff,red
-170796	#ddccff,red	#ddccff,red
-191573	#ddccff,red	#ddccff,red
-281126	#ddccff,red	#ddccff,red
-4160	#ddccff,red	#ddccff,red
-8877	#ddccff,red	#ddccff,red
-552898	#ddccff,red	#ddccff,red
-3309	#ddccff,red	#ddccff,red
-3558	#ddccff,red	#ddccff,red
-6715	#ddccff,red	#ddccff,red
-6716	#ddccff,red	#ddccff,red
-537043	#ddccff,red	#ddccff,red
-3636621	#ddccff,red	#ddccff,red
-80733	#ddccff,red	#ddccff,red
-25689	#ddccff,red	#ddccff,red
-7422	#ddccff,red	#ddccff,red
-4221	#ddccff,red	#ddccff,red
-768	#ddccff,red	#ddccff,red
-1901	#ddccff,red	#ddccff,red
-3290	#ddccff,red	#ddccff,red
-10682	#ddccff,red	#ddccff,red
-377677	#ddccff,red	#ddccff,red
-1636	#ddccff,red	#ddccff,red
-146802	#ddccff,red	#ddccff,red
-4985	#ddccff,red	#ddccff,red
-1136	#ddccff,red	#ddccff,red
-24411	#ddccff,red	#ddccff,red
-280741	#ddccff,red	#ddccff,red
-390245	#ddccff,red	#ddccff,red
-5164	#ddccff,red	#ddccff,red
-5165	#ddccff,red	#ddccff,red
-5166	#ddccff,red	#ddccff,red
-5621	#ddccff,red	#ddccff,red
-5141	#ddccff,red	#ddccff,red
-3351	#ddccff,red	#ddccff,red
-761	#ddccff,red	#ddccff,red
-116549	#ddccff,red	#ddccff,red
-5743	#ddccff,red	#ddccff,red
-2648	#ddccff,red	#ddccff,red
-6865	#ddccff,red	#ddccff,red
-3577	#ddccff,red	#ddccff,red
-1816	#ddccff,red	#ddccff,red
-3274	#ddccff,red	#ddccff,red
-2554	#ddccff,red	#ddccff,red
-23632	#ddccff,red	#ddccff,red
-6915	#ddccff,red	#ddccff,red
-10919	#ddccff,red	#ddccff,red
-25601	#ddccff,red	#ddccff,red
-5315	#ddccff,red	#ddccff,red
-116443	#ddccff,red	#ddccff,red
-407230	#ddccff,red	#ddccff,red
-100033901	#ddccff,red	#ddccff,red
-472	#ddccff,red	#ddccff,red
-1548	#ddccff,red	#ddccff,red
-6326	#ddccff,red	#ddccff,red
-100051593	#ddccff,red	#ddccff,red
-2902	#ddccff,red	#ddccff,red
-2904	#ddccff,red	#ddccff,red
-6532	#ddccff,red	#ddccff,red
-100135539	#ddccff,red	#ddccff,red
-1555	#ddccff,red	#ddccff,red
-1551	#ddccff,red	#ddccff,red
-71934	#ddccff,red	#ddccff,red
-771	#ddccff,red	#ddccff,red
-3354	#ddccff,red	#ddccff,red
-836	#ddccff,red	#ddccff,red
-2065	#ddccff,red	#ddccff,red
-443551	#ddccff,red	#ddccff,red
-15560	#ddccff,red	#ddccff,red
-4313	#ddccff,red	#ddccff,red
-9367	#ddccff,red	#ddccff,red
-3352	#ddccff,red	#ddccff,red
-3361	#ddccff,red	#ddccff,red
-6531	#ddccff,red	#ddccff,red
-2548	#ddccff,red	#ddccff,red
-3064	#ddccff,red	#ddccff,red
-3355	#ddccff,red	#ddccff,red
-4214	#ddccff,red	#ddccff,red
-1565	#ddccff,red	#ddccff,red
-765	#ddccff,red	#ddccff,red
-766	#ddccff,red	#ddccff,red
-170572	#ddccff,red	#ddccff,red
-200909	#ddccff,red	#ddccff,red
-285242	#ddccff,red	#ddccff,red
-811999	#ddccff,red	#ddccff,red
-24898	#ddccff,red	#ddccff,red
-152	#ddccff,red	#ddccff,red
-3358	#ddccff,red	#ddccff,red
-1815	#ddccff,red	#ddccff,red
-9177	#ddccff,red	#ddccff,red
-116444	#ddccff,red	#ddccff,red
-100524920	#ddccff,red	#ddccff,red
-25195	#ddccff,red	#ddccff,red
-3356	#ddccff,red	#ddccff,red
-6530	#ddccff,red	#ddccff,red
-4000	#ddccff,red	#ddccff,red
-5138	#ddccff,red	#ddccff,red
-3360	#ddccff,red	#ddccff,red
-4314	#ddccff,red	#ddccff,red
-153	#ddccff,red	#ddccff,red
-54737	#ddccff,red	#ddccff,red
-2905	#ddccff,red	#ddccff,red
-2906	#ddccff,red	#ddccff,red
-11238	#ddccff,red	#ddccff,red
-10599	#ddccff,red	#ddccff,red
-3359	#ddccff,red	#ddccff,red
-763	#ddccff,red	#ddccff,red
-4322	#ddccff,red	#ddccff,red
-58963	#ddccff,red	#ddccff,red
-79246	#ddccff,red	#ddccff,red
-25075	#ddccff,red	#ddccff,red
-4986	#ddccff,red	#ddccff,red
-2903	#ddccff,red	#ddccff,red
-155	#ddccff,red	#ddccff,red
-25432	#ddccff,red	#ddccff,red
-7421	#ddccff,red	#ddccff,red
-25323	#ddccff,red	#ddccff,red
-5289	#ddccff,red	#ddccff,red
-15558	#ddccff,red	#ddccff,red
-24473	#ddccff,red	#ddccff,red
-29581	#ddccff,red	#ddccff,red
-60448	#ddccff,red	#ddccff,red
-1814	#ddccff,red	#ddccff,red
-65032	#ddccff,red	#ddccff,red
-29238	#ddccff,red	#ddccff,red
-25187	#ddccff,red	#ddccff,red
-10280	#ddccff,red	#ddccff,red
-55775	#ddccff,red	#ddccff,red
-148	#ddccff,red	#ddccff,red
-3350	#ddccff,red	#ddccff,red
-29595	#ddccff,red	#ddccff,red
-24316	#ddccff,red	#ddccff,red
-3363	#ddccff,red	#ddccff,red
-25083	#ddccff,red	#ddccff,red
-150	#ddccff,red	#ddccff,red
-7068	#ddccff,red	#ddccff,red
-154	#ddccff,red	#ddccff,red
-3357	#ddccff,red	#ddccff,red
-3362	#ddccff,red	#ddccff,red
-151	#ddccff,red	#ddccff,red
-1813	#ddccff,red	#ddccff,red
-3269	#ddccff,red	#ddccff,red
-24175	#ddccff,red	#ddccff,red
-25553	#ddccff,red	#ddccff,red
-24174	#ddccff,red	#ddccff,red
-24318	#ddccff,red	#ddccff,red
-641	#ddccff,red	#ddccff,red
-147	#ddccff,red	#ddccff,red
-24173	#ddccff,red	#ddccff,red
-29413	#ddccff,red	#ddccff,red
-146	#ddccff,red	#ddccff,red
-29412	#ddccff,red	#ddccff,red
+#hsa	pvalue
+2932	0.0000000000000000000
+5601	0.0000000000000000000
+2931	0.0000000000000000000
+3791	0.0000000000000000000
+11200	0.0000000000000000000
+1147	0.0000000000000000025
+5579	0.0000000000000000057
+5156	0.0000000000000000288
+6714	0.0000000000000000652
+1455	0.0000000000000001280
+983	0.0000000000000004565
+84446	0.0000000000000008530
+3552	0.0000000000000017425
+7010	0.0000000000000030232
+9261	0.0000000000000030744
+5599	0.0000000000000089724
+5580	0.0000000000000090542
+1453	0.0000000000000093447
+50488	0.0000000000000179228
+23178	0.0000000000000200998
+6790	0.0000000000000231231
+4193	0.0000000000000281376
+4233	0.0000000000000533399
+5588	0.0000000000001717107
+11183	0.0000000000003619841
+24413	0.0000000000004406784
+7525	0.0000000000005239547
+3718	0.0000000000005554056
+4306	0.0000000000010316619
+5590	0.0000000000016164469
+26416	0.0000000000016249166
+1456	0.0000000000016679875
+8550	0.0000000000016679875
+6462	0.0000000000017722774
+4780	0.0000000000020340751
+9212	0.0000000000024378379
+53944	0.0000000000030310200
+3932	0.0000000000036983782
+9448	0.0000000000044483613
+5578	0.0000000000049768458
+4067	0.0000000000068599644
+7298	0.0000000000094695949
+5241	0.0000000000103547177
+26395	0.0000000000126585135
+5584	0.0000000000145591428
+9475	0.0000000000147996253
+6885	0.0000000000194387071
+5582	0.0000000000287934811
+6788	0.0000000000308000005
+301	0.0000000000402243388
+5586	0.0000000000444085442
+2324	0.0000000000554998698
+1956	0.0000000000636087041
+5581	0.0000000000680100443
+5159	0.0000000001149840687
+2011	0.0000000001470164166
+5583	0.0000000001653837459
+1719	0.0000000001942523269
+5261	0.0000000002012417846
+4486	0.0000000002295887381
+2908	0.0000000003281227422
+6573	0.0000000004622391781
+6195	0.0000000005853922216
+403655	0.0000000006448276552
+23617	0.0000000006591838764
+8202	0.0000000006645456439
+3815	0.0000000007741835758
+2740	0.0000000014733489968
+1020	0.0000000014758842231
+805	0.0000000015638340380
+808	0.0000000015638340380
+24312	0.0000000016072387853
+6198	0.0000000017366668483
+3551	0.0000000018156056579
+14272	0.0000000024395248155
+110606	0.0000000024395248155
+281169	0.0000000024395248155
+327686	0.0000000024395248155
+2064	0.0000000038044278703
+23683	0.0000000039522100843
+4140	0.0000000039876193834
+2936	0.0000000045981267941
+1859	0.0000000046771491627
+9252	0.0000000052259555478
+5871	0.0000000068037686066
+5567	0.0000000072977219474
+2260	0.0000000077925146784
+558	0.0000000079686074954
+2322	0.0000000081691297767
+113235	0.0000000083636711784
+6517	0.0000000085775944569
+248	0.0000000086185327994
+2264	0.0000000091149636340
+4790	0.0000000095074566297
+25	0.0000000110975954344
+3569	0.0000000111689385513
+5163	0.0000000112370538798
+1452	0.0000000117051918300
+7157	0.0000000122740634295
+6850	0.0000000138280302887
+80351	0.0000000140796590562
+1454	0.0000000143038638698
+1436	0.0000000145902148846
+5255	0.0000000148472618132
+5256	0.0000000148472618132
+5257	0.0000000148472618132
+4593	0.0000000167005992839
+5260	0.0000000169496930846
+13361	0.0000000179838606479
+984	0.0000000186278141790
+2720	0.0000000198095359209
+5476	0.0000000198095359209
+7272	0.0000000208216567760
+2050	0.0000000210911043100
+1588	0.0000000233236093486
+2241	0.0000000244614047061
+6794	0.0000000296225070743
+816	0.0000000331743664439
+10733	0.0000000359570361938
+5663	0.0000000368080560887
+250	0.0000000383927331908
+5587	0.0000000401143778030
+2100	0.0000000422418032864
+812762	0.0000000503637526748
+11835	0.0000000512912501312
+572	0.0000000560044290157
+650	0.0000000560044290157
+866	0.0000000560044290157
+8648	0.0000000560044290157
+10499	0.0000000560044290157
+728642	0.0000000587157223500
+7124	0.0000000728635929930
+2099	0.0000000772816289905
+7297	0.0000000782531372906
+5292	0.0000000802895458531
+60352	0.0000000843092155338
+64462	0.0000000843092155338
+8317	0.0000000974320194053
+9748	0.0000000989196375836
+100529261	0.0000001010237227384
+4139	0.0000001112942864331
+6733	0.0000001112942864331
+9024	0.0000001112942864331
+2263	0.0000001114610469896
+427317	0.0000001183951299445
+7046	0.0000001403052375947
+91	0.0000001580608512426
+2356	0.0000001619089830417
+3417	0.0000002269098457318
+1457	0.0000002742900909215
+2261	0.0000003214059740517
+509322	0.0000003513264850904
+516619	0.0000003513264850904
+533276	0.0000003513264850904
+1645	0.0000003832304172772
+2342	0.0000003832304172772
+5095	0.0000003832304172772
+5096	0.0000003832304172772
+9128	0.0000003832304172772
+25318	0.0000003832304172772
+64511	0.0000003832304172772
+367	0.0000003844343899866
+8851	0.0000004038553852396
+249	0.0000004278672829303
+547923	0.0000004571028920764
+100848466	0.0000004650791260993
+2872	0.0000004940079283604
+891	0.0000005240222896548
+9133	0.0000005240222896548
+85417	0.0000005240222896548
+9833	0.0000006045088525629
+640	0.0000006275780597948
+340156	0.0000006837998846256
+120892	0.0000007214185409868
+4915	0.0000008673935428276
+5063	0.0000009121875802187
+10298	0.0000009649251842957
+5602	0.0000009713071982186
+27330	0.0000011282781076678
+1019	0.0000013436821582379
+547694	0.0000014066374223002
+547835	0.0000014066374223002
+547836	0.0000014066374223002
+547856	0.0000014066374223002
+547860	0.0000014066374223002
+547861	0.0000014066374223002
+5592	0.0000014691256943204
+2268	0.0000015832986871269
+25778	0.0000016012298660435
+83942	0.0000016826473720664
+818	0.0000017324963293401
+6196	0.0000017882641785299
+5091	0.0000020758583286186
+80899	0.0000020758583286186
+1085515	0.0000020758583286186
+24208	0.0000021072906778654
+6789	0.0000021449164686292
+1025	0.0000026149467736908
+23043	0.0000026399014202998
+2348	0.0000027938306736947
+5603	0.0000029273707372942
+1081	0.0000030967850865202
+26576	0.0000031054370094161
+4853	0.0000033692808247019
+4854	0.0000033692808247019
+4855	0.0000033692808247019
+4058	0.0000034144998489570
+3717	0.0000035114827962598
+1111	0.0000038899625290736
+817	0.0000041323505374070
+6331	0.0000041619099913727
+10114	0.0000041706217198694
+91807	0.0000044143717691782
+84385	0.0000044611713685650
+2185	0.0000046852350109168
+5426	0.0000051597789925806
+5427	0.0000051597789925806
+6241	0.0000051597789925806
+50484	0.0000051597789925806
+54107	0.0000051597789925806
+56655	0.0000051597789925806
+79813	0.0000051597789925806
+110147	0.0000051597789925806
+116447	0.0000051597789925806
+140668	0.0000051597789925806
+65156	0.0000053224932853075
+5593	0.0000056182432485199
+14815	0.0000059401615573517
+202374	0.0000059401615573517
+28996	0.0000071494980904910
+2534	0.0000072499959381021
+5893	0.0000073350970418055
+6240	0.0000073350970418055
+5651987	0.0000073350970418055
+3654	0.0000078062349540032
+387129	0.0000078062349540032
+3716	0.0000082313285434348
+5979	0.0000085612876587637
+9891	0.0000092420012740130
+6606	0.0000093973028186539
+599	0.0000094657796313815
+25672	0.0000094657796313815
+294673	0.0000094657796313815
+6787	0.0000094954012780007
+2321	0.0000098999827779499
+1723	0.0000100924883430170
+9263	0.0000102348187208505
+6197	0.0000118501572935447
+8476	0.0000129521155447997
+200576	0.0000137005472879878
+6416	0.0000142967544637930
+23235	0.0000162448419282676
+2049	0.0000165886256923301
+4851	0.0000165886256923301
+18596	0.0000166707999972993
+5613	0.0000193363550692349
+1196	0.0000193754473842730
+6732	0.0000200220156545452
+2350	0.0000216434327488666
+100533105	0.0000216434327488666
+801	0.0000219216072653021
+6093	0.0000252897488532440
+238	0.0000254829026348047
+122011	0.0000264641831054871
+2645	0.0000268862903220740
+51701	0.0000269538139302070
+65975	0.0000271909835204521
+23604	0.0000287812278897692
+3960	0.0000296362676837935
+5170	0.0000306210559034302
+2444	0.0000308987023375899
+2339	0.0000309111671083582
+47	0.0000311027904943414
+83805	0.0000311027904943414
+403426	0.0000311027904943414
+8536	0.0000333425894830659
+815	0.0000337476633341294
+50507	0.0000357341434849040
+597	0.0000373796808190940
+10017	0.0000373796808190940
+23678	0.0000373796808190940
+24835	0.0000373796808190940
+26750	0.0000373796808190940
+29904	0.0000373796808190940
+65267	0.0000373796808190940
+65268	0.0000373796808190940
+280960	0.0000373796808190940
+5894	0.0000400734079973222
+8767	0.0000413798861122891
+7075	0.0000414594879905412
+1017	0.0000429108222073514
+8658	0.0000465131593416147
+5566	0.0000476377257195758
+51053	0.0000503577457698062
+1021	0.0000505156736805786
+57396	0.0000542464379379007
+166614	0.0000570951944485197
+4217	0.0000572032886510888
+4331	0.0000572032886510888
+508809	0.0000572032886510888
+27102	0.0000599246188390219
+4293	0.0000604741575487164
+6300	0.0000614620201117882
+5607	0.0000616273001177037
+16590	0.0000629503017009653
+2870	0.0000639878157567940
+6046	0.0000639878157567940
+7867	0.0000639878157567940
+8019	0.0000639878157567940
+5467	0.0000775933763132082
+8428	0.0000885798107912984
+10494	0.0000885798107912984
+30811	0.0000885798107912984
+3783750	0.0000885798107912984
+147746	0.0000898799976673923
+2194	0.0000922232011046303
+5753	0.0000930052703776269
+4914	0.0000941920197574191
+3055	0.0000976298831327170
+351	0.0001003328946990030
+100462812	0.0001036316550078650
+3074	0.0001090589841050490
+17161	0.0001090589841050490
+4201816	0.0001090589841050490
+4204180	0.0001090589841050490
+4921	0.0001184850072807630
+1559	0.0001250533383766990
+5562	0.0001452690384530300
+79915	0.0001473329917511070
+27148	0.0001579490877622700
+7301	0.0001689775621369950
+23410	0.0001755638345065610
+10461	0.0001814359727644020
+3645	0.0001973664707302610
+8621	0.0001973664707302610
+9113	0.0001973664707302610
+466	0.0001988401761905050
+676	0.0001988401761905050
+6675	0.0001988401761905050
+14312	0.0001988401761905050
+23774	0.0001988401761905050
+29261	0.0001988401761905050
+64550	0.0001988401761905050
+67473	0.0001988401761905050
+223770	0.0001988401761905050
+398105	0.0001988401761905050
+398457	0.0001988401761905050
+398822	0.0001988401761905050
+887777	0.0001988401761905050
+1091594	0.0001988401761905050
+2718383	0.0001988401761905050
+4550648	0.0001988401761905050
+4699078	0.0001988401761905050
+5212317	0.0001988401761905050
+6226217	0.0001988401761905050
+9221804	0.0001988401761905050
+8900	0.0002042395975273340
+5594	0.0002159137774872490
+5702	0.0002164769018016770
+5705	0.0002164769018016770
+5707	0.0002164769018016770
+5708	0.0002164769018016770
+5709	0.0002164769018016770
+5710	0.0002164769018016770
+5713	0.0002164769018016770
+5714	0.0002164769018016770
+5717	0.0002164769018016770
+5719	0.0002164769018016770
+23476	0.0002164769018016770
+780	0.0002181979674185100
+5600	0.0002318536862255010
+1613	0.0002448152449948630
+5649109	0.0002578787796011770
+18595	0.0002597111481719480
+4321	0.0002665717549758140
+5422	0.0002686477385480300
+8737	0.0002686477385480300
+8899	0.0002686477385480300
+22933	0.0002686477385480300
+2043	0.0002720141861310880
+5605	0.0002740260065368260
+6817	0.0002847600265059480
+902	0.0003246334985799830
+84254	0.0003246334985799830
+102724428	0.0003246334985799830
+890	0.0003302526867876690
+90	0.0003307749034677420
+7048	0.0003307749034677420
+4638	0.0003444941186792340
+100348842	0.0003648430568877750
+5062	0.0003669318072066770
+1576	0.0003981263883294460
+8491	0.0003997402016674760
+190	0.0004158454229064100
+22983	0.0004158454229064100
+23387	0.0004232028381518710
+395694	0.0004232028381518710
+5608	0.0004256761541021460
+29110	0.0004256761541021460
+8999	0.0004322028656529520
+24598	0.0004691362138823040
+2147	0.0004792456899931600
+1536	0.0004968897513300430
+5105	0.0004968897513300430
+5106	0.0004968897513300430
+6553	0.0004968897513300430
+22173	0.0004968897513300430
+27035	0.0004968897513300430
+79400	0.0004968897513300430
+563560	0.0004968897513300430
+25865	0.0005134989882773710
+6795	0.0005204022827553950
+896	0.0005243325950144430
+1024	0.0005243325950144430
+9641	0.0005243325950144430
+8445	0.0005272616308620430
+5727	0.0005437765500273110
+16855	0.0005437765500273110
+24629	0.0005437765500273110
+50686	0.0005437765500273110
+84027	0.0005437765500273110
+2051	0.0005533835421274550
+660	0.0005685798080768590
+1109	0.0005869235700924470
+5563	0.0006162911733640570
+57787	0.0006236879403738850
+140609	0.0006236879403738850
+11113	0.0006490190293792590
+22848	0.0006490190293792590
+2580	0.0006703400568363900
+6778	0.0007396256308413730
+5604	0.0007779687520719280
+2081	0.0007851877837696900
+4190	0.0008388998116309830
+4191	0.0008388998116309830
+904	0.0008495361852047580
+22171	0.0008510084062148910
+4296	0.0008776314600882010
+595	0.0008923195523450080
+13316346	0.0009048788967518160
+3614	0.0009070917531411890
+3615	0.0009070917531411890
+6446	0.0009070917531411890
+1432	0.0009412593680654920
+1612	0.0009519853293084190
+25989	0.0009519853293084190
+1263	0.0009915764727983290
+8986	0.0009915764727983290
+2045	0.0009926107898085020
+85366	0.0009926107898085020
+55872	0.0010200889345506300
+208	0.0011260251402898800
+51776	0.0012121329523956100
+4128	0.0012476606283990500
+9175	0.0012933822395484700
+102800317	0.0013300204261627000
+1387	0.0013538767704134200
+10783	0.0013538767704134200
+24890	0.0013575660644442200
+56924	0.0013575660644442200
+255239	0.0013575660644442200
+3316	0.0015830079307601200
+6608	0.0017648191259725600
+10587	0.0017648191259725600
+55781	0.0017735098122154600
+83732	0.0017735098122154600
+1545	0.0017755147707641700
+11011	0.0017981183286574400
+6622	0.0018514256462791400
+4916	0.0018679959020843300
+3643	0.0018730368235936200
+5568	0.0019019997516800900
+10188	0.0019157901792615700
+317748	0.0019598151433082600
+5290	0.0021898749109116800
+24784	0.0022247464350481600
+287287	0.0022763038024632900
+8780	0.0022878560079628400
+2242	0.0023280710024229600
+695	0.0024480143788170200
+8394	0.0024491449973944000
+10110	0.0024491449973944000
+2066	0.0025605520054956100
+6793	0.0027208200159230800
+64158	0.0027578324543781400
+2869	0.0027611528054135600
+3549	0.0028620551687682200
+6401	0.0028620551687682200
+6469	0.0028620551687682200
+50846	0.0028620551687682200
+65036	0.0028620551687682200
+155871	0.0028620551687682200
+497756	0.0028620551687682200
+100101555	0.0028620551687682200
+100135490	0.0028620551687682200
+100720484	0.0028620551687682200
+100726255	0.0028620551687682200
+100734741	0.0028620551687682200
+2868	0.0029168078383525800
+11213	0.0029168078383525800
+1509	0.0029617752932810000
+2047	0.0030200435910968400
+7535	0.0030200435910968400
+8396	0.0032743391516925900
+57172	0.0032743391516925900
+5609	0.0034172668672740000
+6311	0.0034446782058009000
+142	0.0035627364809474100
+1543	0.0035683497366522700
+8912	0.0036778873474888000
+2642	0.0037974095513507200
+78959	0.0037974095513507200
+293	0.0038341394359342600
+952	0.0038341394359342600
+20517	0.0038341394359342600
+59272	0.0038341394359342600
+79888	0.0038341394359342600
+811773	0.0038341394359342600
+3641348	0.0038341394359342600
+3641414	0.0038341394359342600
+100996758	0.0038341394359342600
+975	0.0039341120804890400
+4860	0.0039341120804890400
+6548	0.0039341120804890400
+24159	0.0039341120804890400
+24782	0.0039341120804890400
+785911	0.0039341120804890400
+100720631	0.0039341120804890400
+369	0.0041163945733929100
+2819	0.0041163945733929100
+2820	0.0041163945733929100
+15930	0.0041163945733929100
+23752	0.0041163945733929100
+24808	0.0041163945733929100
+25340	0.0041163945733929100
+26415	0.0041163945733929100
+171072	0.0041163945733929100
+396592	0.0041163945733929100
+711717	0.0041163945733929100
+1114791	0.0041163945733929100
+10549022	0.0041163945733929100
+3571199	0.0041959788166119100
+1195	0.0042568768449005400
+7150	0.0043037742591153000
+9201	0.0043037742591153000
+10769	0.0043037742591153000
+10645	0.0043289869221003700
+10038	0.0044024994270648500
+5058	0.0045434349496294300
+784	0.0048553336113265900
+785	0.0048553336113265900
+3592	0.0048553336113265900
+3593	0.0048553336113265900
+6583	0.0048553336113265900
+19015	0.0048553336113265900
+56749	0.0048553336113265900
+130399	0.0048553336113265900
+1022	0.0051285699739325800
+2048	0.0052115380416670800
+8711	0.0052115380416670800
+207	0.0057913519255203800
+24230	0.0059013486763892500
+3702	0.0063631673185039200
+5970	0.0064804445771516800
+7296	0.0064804445771516800
+79858	0.0064804445771516800
+5027	0.0067456952178654000
+8644	0.0069468062146262900
+2042	0.0073128467056757000
+23411	0.0080117059517538400
+3725	0.0087950401274165800
+778	0.0088891329399270300
+3565	0.0088891329399270300
+6580	0.0089441503159749600
+80122	0.0090810993214009100
+415116	0.0090810993214009100
+7444	0.0091906778434203600
+24296	0.0091906778434203600
+55351	0.0091906778434203600
+83903	0.0091906778434203600
+682930	0.0091906778434203600
+331	0.0098382008911477400
+14182	0.0098382008911477400
+12933205	0.0098382008911477400
+53904	0.0106310021811077000
+1198	0.0107385054186671000
+2044	0.0108681663969373000
+27	0.0109787173066507000
+316	0.0111229650798092000
+196	0.0111629090869774000
+7498	0.0112843678022136000
+6098	0.0124506575873059000
+540446	0.0126254868253543000
+9149	0.0129298800163356000
+11040	0.0129298800163356000
+4170	0.0129914082489373000
+9134	0.0131429560102091000
+814	0.0136764215795301000
+7006	0.0138219213565356000
+15499	0.0138219213565356000
+24660	0.0143012635962438000
+100	0.0143317043132129000
+2247	0.0143317043132129000
+12801	0.0143317043132129000
+50508	0.0143317043132129000
+100135627	0.0143317043132129000
+658	0.0144002783743333000
+4215	0.0144002783743333000
+57118	0.0144002783743333000
+51135	0.0144496752716064000
+920	0.0146393273203876000
+19713	0.0146393273203876000
+100009585	0.0146393273203876000
+100327259	0.0146393273203876000
+285220	0.0147562948954869000
+5127	0.0154186954831589000
+3553	0.0155817323967029000
+5965	0.0159893582608781000
+246	0.0165776857984630000
+16542	0.0166394526458376000
+978	0.0168719013953607000
+6898	0.0168719013953607000
+361523	0.0168719013953607000
+5585	0.0169661520600905000
+8576	0.0169661520600905000
+951475	0.0174159593308798000
+5347	0.0179232493559813000
+5429	0.0179232493559813000
+100135548	0.0185371357911830000
+1633	0.0200264853939521000
+6869	0.0200461298571271000
+6549	0.0204841971746226000
+240	0.0205783921672177000
+5142	0.0207208938258666000
+2023	0.0211510709548118000
+3098	0.0211510709548118000
+3099	0.0211510709548118000
+3101	0.0211510709548118000
+4507	0.0211510709548118000
+5045	0.0211510709548118000
+5540	0.0211510709548118000
+11647	0.0211510709548118000
+12675	0.0211510709548118000
+12772	0.0211510709548118000
+13548	0.0211510709548118000
+29735	0.0211510709548118000
+51110	0.0211510709548118000
+76768	0.0211510709548118000
+109899	0.0211510709548118000
+114294	0.0211510709548118000
+116590	0.0211510709548118000
+145567	0.0211510709548118000
+256281	0.0211510709548118000
+678683	0.0211510709548118000
+2774506	0.0211510709548118000
+2775589	0.0211510709548118000
+2776664	0.0211510709548118000
+3168364	0.0211510709548118000
+3169356	0.0211510709548118000
+3169567	0.0211510709548118000
+4098731	0.0211510709548118000
+5287	0.0213416921090469000
+55561	0.0213416921090469000
+6582	0.0218846171007859000
+8444	0.0218846171007859000
+783	0.0220092684993260000
+4752	0.0220092684993260000
+8911	0.0220092684993260000
+8913	0.0220092684993260000
+814099	0.0220092684993260000
+782	0.0223055547948748000
+11689	0.0223055547948748000
+11820	0.0223055547948748000
+16453	0.0223055547948748000
+5294	0.0223359802597825000
+5144	0.0238301601581618000
+1969	0.0241155947668484000
+11184	0.0241885498718277000
+3480	0.0243687991070271000
+4137	0.0255540182961874000
+898	0.0265530309953536000
+538	0.0270268913807725000
+1646	0.0270268913807725000
+2041	0.0272690457009658000
+1132	0.0275373236686736000
+440275	0.0283194847392481000
+134	0.0295322071407207000
+7849	0.0307109584615172000
+57551	0.0307521354372373000
+1018	0.0309932115767187000
+6868	0.0309932115767187000
+24239	0.0309932115767187000
+5606	0.0310222906179717000
+2046	0.0310548440859924000
+6513	0.0320220581720840000
+852254	0.0320220581720840000
+938625	0.0320220581720840000
+759	0.0325396487611620000
+2796	0.0342346574540353000
+2798	0.0342346574540353000
+8788	0.0342346574540353000
+9970	0.0342346574540353000
+10392	0.0342346574540353000
+25007	0.0342346574540353000
+57337	0.0342346574540353000
+282041	0.0342346574540353000
+396445	0.0342346574540353000
+100135549	0.0342346574540353000
+4088	0.0346732500014552000
+204851	0.0351214971266900000
+3782	0.0352240835330385000
+5288	0.0352240835330385000
+109731	0.0352240835330385000
+5129	0.0354131907118237000
+8517	0.0354131907118237000
+12802	0.0354131907118237000
+100135626	0.0354131907118237000
+1574	0.0370588409410283000
+55589	0.0399594329754512000
+774	0.0403065799288048000
+24950	0.0403065799288048000
+5598	0.0434056933912625000
+29716	0.0434056933912625000
+2833	0.0438591476202197000
+4791	0.0438591476202197000
+319757	0.0438591476202197000
+443530	0.0438591476202197000
+613024	0.0438591476202197000
+101825598	0.0438591476202197000
+101825859	0.0438591476202197000
+6011	0.0448067184979216000
+64677	0.0452402636639774000
+4751	0.0452410454569469000
+81788	0.0452410454569469000
+1557	0.0466326600039621000
+23621	0.0472105708343432000
+26524	0.0480248230217423000
+1072	0.0486618627255412000
+1073	0.0486618627255412000
+1386	0.0486618627255412000
+1621	0.0486618627255412000
+2539	0.0486618627255412000
+3297	0.0486618627255412000
+5297	0.0486618627255412000
+6955	0.0486618627255412000
+6957	0.0486618627255412000
+6965	0.0486618627255412000
+8678	0.0486618627255412000
+11541	0.0486618627255412000
+12169	0.0486618627255412000
+14255	0.0486618627255412000
+17096	0.0486618627255412000
+18761	0.0486618627255412000
+19072	0.0486618627255412000
+20607	0.0486618627255412000
+20779	0.0486618627255412000
+22820	0.0486618627255412000
+22870	0.0486618627255412000
+55291	0.0486618627255412000
+56637	0.0486618627255412000
+57143	0.0486618627255412000
+57217	0.0486618627255412000
+58813	0.0486618627255412000
+83471	0.0486618627255412000
+92745	0.0486618627255412000
+171384	0.0486618627255412000
+281607	0.0486618627255412000
+286818	0.0486618627255412000
+403410	0.0486618627255412000
+407157	0.0486618627255412000
+445540	0.0486618627255412000
+1121139	0.0486618627255412000
+13319491	0.0486618627255412000
+100008951	0.0486618627255412000
+100135647	0.0486618627255412000
+100144322	0.0486618627255412000
+100343957	0.0486618627255412000
+100717592	0.0486618627255412000
+729230	0.0514840782893129000
+20423	0.0516707431946164000
+4758	0.0526846754568127000
+4759	0.0526846754568127000
+10825	0.0526846754568127000
+23396	0.0526846754568127000
+84630	0.0526846754568127000
+146057	0.0526846754568127000
+9971	0.0540112803547371000
+29290	0.0540112803547371000
+43	0.0549851875033653000
+10988	0.0565373846293467000
+140469	0.0565373846293467000
+4282	0.0566228637698645000
+7465	0.0566228637698645000
+1592	0.0578278666509936000
+7042	0.0578278666509936000
+7043	0.0578278666509936000
+29503	0.0578278666509936000
+397309	0.0583917214455409000
+5468	0.0609660616865780000
+51347	0.0618945199625459000
+9262	0.0661159940494232000
+27347	0.0693089071213842000
+1459	0.0710652340562175000
+396910	0.0725657041180734000
+403881	0.0725657041180734000
+239	0.0733856470746826000
+1241	0.0738866099316464000
+1544	0.0744874819694492000
+3783	0.0745974787570707000
+56848	0.0745974787570707000
+24680	0.0752837693477075000
+24681	0.0752837693477075000
+25023	0.0752837693477075000
+25522	0.0752837693477075000
+29340	0.0752837693477075000
+81749	0.0752837693477075000
+85420	0.0752837693477075000
+170538	0.0752837693477075000
+2778	0.0787428818498314000
+51426	0.0801288832305497000
+10000	0.0806576752450381000
+23435	0.0817296408874952000
+100009114	0.0817793874458580000
+673	0.0830645507527786000
+3738	0.0835356638763965000
+396319	0.0835356638763965000
+396338	0.0835356638763965000
+320	0.0836722157606330000
+1374	0.0836722157606330000
+3939	0.0836722157606330000
+6550	0.0836722157606330000
+6584	0.0836722157606330000
+7423	0.0836722157606330000
+11648	0.0836722157606330000
+12978	0.0836722157606330000
+16187	0.0836722157606330000
+19882	0.0836722157606330000
+19886	0.0836722157606330000
+21846	0.0836722157606330000
+22637	0.0836722157606330000
+26054	0.0836722157606330000
+26420	0.0836722157606330000
+77337	0.0836722157606330000
+281293	0.0836722157606330000
+12931141	0.0836722157606330000
+100009430	0.0836722157606330000
+131890	0.0845003199940040000
+1234	0.0872291594903522000
+2564	0.0872291594903522000
+779	0.0878068488657958000
+5291	0.0900005691323872000
+1584	0.0919487684831875000
+2739	0.0919487684831875000
+8798	0.0919487684831875000
+8854	0.0919487684831875000
+25149	0.0919487684831875000
+100009094	0.0919487684831875000
+1120	0.0965915691066435000
+4889	0.0965915691066435000
+6870	0.0965915691066435000
+15566	0.0965915691066435000
+51311	0.0965915691066435000
+54861	0.0965915691066435000
+282301	0.0965915691066435000
+527165	0.0965915691066435000
+7294	0.0975727792293986000
+7066	0.0986772432584921000
+10495	0.0991769051937076000
+4129	0.0993843284376509000
+54101	0.0999935714944010000
+598	0.1009548830102570000
+2859	0.1009548830102570000
+4294	0.1009548830102570000
+396442	0.1023181041110490000
+3091	0.1060451889345090000
+216	0.1080753600660180000
+590	0.1092356101840800000
+5999	0.1142716596588680000
+25248	0.1161726152267370000
+624	0.1200397344379400000
+3984	0.1209761856963890000
+3028	0.1230177955175670000
+54106	0.1233589601757290000
+1158731	0.1233799445664950000
+649	0.1239872156205850000
+4830	0.1239872156205850000
+4831	0.1239872156205850000
+5537	0.1239872156205850000
+24653	0.1239872156205850000
+54305	0.1239872156205850000
+281958	0.1239872156205850000
+282323	0.1239872156205850000
+2237	0.1308391041793440000
+1128	0.1320570885975170000
+2950	0.1335597898228300000
+5328	0.1335597898228300000
+7786	0.1344460655859720000
+13315991	0.1344460655859720000
+11201	0.1441439874362660000
+7253	0.1468918241340070000
+776	0.1483236747829340000
+855242	0.1483236747829340000
+5423	0.1483541039790260000
+8729	0.1524473486769280000
+10564	0.1524473486769280000
+10565	0.1524473486769280000
+24303	0.1524473486769280000
+29295	0.1524473486769280000
+51284	0.1524473486769280000
+266684	0.1524473486769280000
+286953	0.1524473486769280000
+286963	0.1524473486769280000
+292728	0.1524473486769280000
+100301563	0.1524473486769280000
+10746	0.1530755681432300000
+1585	0.1567815780681610000
+6579	0.1567815780681610000
+9290	0.1567815780681610000
+25154	0.1567815780681610000
+55315	0.1567815780681610000
+222962	0.1567815780681610000
+775	0.1571942523378860000
+12932805	0.1572144417795070000
+231	0.1579727915349190000
+9344	0.1665911648080750000
+496	0.1678303643544890000
+501	0.1678303643544890000
+973	0.1678303643544890000
+974	0.1678303643544890000
+1394	0.1678303643544890000
+1806	0.1678303643544890000
+2249	0.1678303643544890000
+2252	0.1678303643544890000
+2253	0.1678303643544890000
+2255	0.1678303643544890000
+2257	0.1678303643544890000
+2258	0.1678303643544890000
+3497	0.1678303643544890000
+3567	0.1678303643544890000
+3656	0.1678303643544890000
+5564	0.1678303643544890000
+5565	0.1678303643544890000
+5571	0.1678303643544890000
+6566	0.1678303643544890000
+8817	0.1678303643544890000
+8822	0.1678303643544890000
+8829	0.1678303643544890000
+12534	0.1678303643544890000
+16337	0.1678303643544890000
+19879	0.1678303643544890000
+24385	0.1678303643544890000
+26357	0.1678303643544890000
+29465	0.1678303643544890000
+30849	0.1678303643544890000
+51393	0.1678303643544890000
+51422	0.1678303643544890000
+53632	0.1678303643544890000
+66026	0.1678303643544890000
+81539	0.1678303643544890000
+81640	0.1678303643544890000
+209176	0.1678303643544890000
+347527	0.1678303643544890000
+617917	0.1678303643544890000
+694181	0.1678303643544890000
+923602	0.1678303643544890000
+924440	0.1678303643544890000
+939223	0.1678303643544890000
+100009586	0.1678303643544890000
+100135466	0.1678303643544890000
+100622149	0.1678303643544890000
+83523	0.1739002192862620000
+4544	0.1744517556626300000
+773	0.1813669294655170000
+6581	0.1813669294655170000
+6777	0.1813669294655170000
+7040	0.1813669294655170000
+7412	0.1813669294655170000
+5293	0.1820292997645970000
+1119	0.1834276476661580000
+5150	0.1834276476661580000
+6327	0.1834276476661580000
+27115	0.1834276476661580000
+29277	0.1834276476661580000
+56274	0.1834276476661580000
+1460	0.1845223623210880000
+1129	0.1875359003744400000
+6256	0.1953246656169910000
+5218	0.1959710269433530000
+7299	0.1959710269433530000
+596	0.2038055359059050000
+85443	0.2038055359059050000
+3735	0.2071179528666300000
+79934	0.2071179528666300000
+518675	0.2071179528666300000
+5610	0.2079240381958940000
+2155	0.2137748395023810000
+2847	0.2137748395023810000
+4161	0.2137748395023810000
+17295	0.2137748395023810000
+277328	0.2137748395023810000
+312896	0.2137748395023810000
+1489531	0.2137748395023810000
+4318	0.2144266396306100000
+11329	0.2158786969314190000
+24297	0.2158786969314190000
+171522	0.2158786969314190000
+15550	0.2183472339829740000
+9578	0.2237751339592780000
+22875	0.2237751339592780000
+22858	0.2260636091270910000
+140901	0.2260636091270910000
+5742	0.2266415670156740000
+3780	0.2338333264659070000
+5128	0.2414594259709550000
+57014	0.2414594259709550000
+1445	0.2436336731351000000
+5591	0.2436336731351000000
+9682	0.2436336731351000000
+5980	0.2443495974835420000
+861	0.2465301402396720000
+865	0.2465301402396720000
+23012	0.2493989158700070000
+24300	0.2493989158700070000
+760	0.2497205334895060000
+1950	0.2606852137500510000
+3700	0.2606852137500510000
+4886	0.2606852137500510000
+4887	0.2606852137500510000
+5319	0.2606852137500510000
+6772	0.2606852137500510000
+12766	0.2606852137500510000
+282322	0.2606852137500510000
+404074	0.2606852137500510000
+618607	0.2606852137500510000
+100302667	0.2606852137500510000
+100714172	0.2606852137500510000
+100731540	0.2606852137500510000
+873	0.2613127881929960000
+4154	0.2650668349308960000
+4363	0.2651849017566820000
+7941	0.2651849017566820000
+9706	0.2651849017566820000
+672	0.2654452177181280000
+3320	0.2689113133121060000
+8856	0.2820666003607030000
+4145	0.2836141653374520000
+71742	0.2836141653374520000
+389840	0.2836141653374520000
+6097	0.2856377379787100000
+84006	0.2869772357223730000
+1991	0.2893608521084550000
+2565	0.2893608521084550000
+2567	0.2893608521084550000
+2568	0.2893608521084550000
+3781	0.2893608521084550000
+6753	0.2893608521084550000
+14254	0.2893608521084550000
+24360	0.2893608521084550000
+55879	0.2893608521084550000
+1269	0.2894011228225620000
+1786	0.2894011228225620000
+407136	0.3031951234087860000
+220	0.3076681163847820000
+262	0.3076681163847820000
+652	0.3076681163847820000
+2641	0.3076681163847820000
+5741	0.3076681163847820000
+7067	0.3076681163847820000
+7915	0.3076681163847820000
+10840	0.3076681163847820000
+16001	0.3076681163847820000
+23173	0.3076681163847820000
+24267	0.3076681163847820000
+25033	0.3076681163847820000
+80271	0.3076681163847820000
+160428	0.3076681163847820000
+338442	0.3076681163847820000
+395605	0.3076681163847820000
+395606	0.3076681163847820000
+100038021	0.3076681163847820000
+100135518	0.3076681163847820000
+100727842	0.3076681163847820000
+101093058	0.3076681163847820000
+101099637	0.3076681163847820000
+24947	0.3086280642705290000
+25255	0.3086280642705290000
+29707	0.3086280642705290000
+29708	0.3086280642705290000
+140675	0.3086280642705290000
+24192	0.3088608562296020000
+6199	0.3139873948073430000
+4843	0.3158346768527010000
+8569	0.3158346768527010000
+328	0.3159844917523720000
+1586	0.3177897993209300000
+2030	0.3177897993209300000
+2563	0.3177897993209300000
+5295	0.3177897993209300000
+6754	0.3177897993209300000
+6774	0.3177897993209300000
+6792	0.3177897993209300000
+659	0.3181826652223500000
+9943	0.3181826652223500000
+1787	0.3186393083630750000
+1788	0.3186393083630750000
+1789	0.3186393083630750000
+397131	0.3186393083630750000
+4988	0.3218162325792740000
+613	0.3242401579181390000
+1577	0.3279048029750850000
+7184	0.3345479841530790000
+289606	0.3435886256878670000
+151306	0.3464220051505970000
+25290	0.3510471073031930000
+25053	0.3527976534533940000
+167359	0.3527976534533940000
+100130827	0.3527976534533940000
+3294	0.3540305313242980000
+5597	0.3540305313242980000
+6783	0.3540305313242980000
+14073	0.3540305313242980000
+100008972	0.3540305313242980000
+5243	0.3587413861527130000
+29705	0.3612973513075630000
+1268	0.3638049929197950000
+287609	0.3640952441436980000
+5747	0.3698572041271730000
+6752	0.3750916713669320000
+6755	0.3750916713669320000
+51765	0.3750916713669320000
+1571	0.3757914639046180000
+55244	0.3846456810135620000
+403882	0.3871883390231440000
+3656265	0.3879552492050350000
+15561	0.3888160444871720000
+247	0.3965071970395790000
+217	0.3992446107543620000
+219	0.3992446107543620000
+994	0.3992446107543620000
+4117	0.3992446107543620000
+5915	0.3992446107543620000
+8503	0.3992446107543620000
+8814	0.3992446107543620000
+24889	0.3992446107543620000
+170698	0.3992446107543620000
+396318	0.3992446107543620000
+813594	0.3992446107543620000
+856395	0.4004463865502490000
+3177	0.4036460349411800000
+3383	0.4036460349411800000
+2744	0.4206902014180180000
+18391	0.4211195918615390000
+5376	0.4257698715319410000
+4864	0.4269438358631610000
+3767	0.4319461241397970000
+6751	0.4319461241397970000
+11309	0.4319461241397970000
+7153	0.4327455036668560000
+1812	0.4349199912332390000
+338	0.4429180422782350000
+412	0.4429180422782350000
+495	0.4429180422782350000
+2224	0.4429180422782350000
+2246	0.4429180422782350000
+3736	0.4429180422782350000
+4907	0.4429180422782350000
+5296	0.4429180422782350000
+5321	0.4429180422782350000
+6336	0.4429180422782350000
+16818	0.4429180422782350000
+114211	0.4429180422782350000
+192646	0.4429180422782350000
+341676	0.4429180422782350000
+397552	0.4429180422782350000
+13318096	0.4429180422782350000
+100009164	0.4429180422782350000
+1131	0.4465725903015450000
+9874	0.4543907221659460000
+15563	0.4543907221659460000
+4316	0.4598671299283310000
+5298	0.4651397629319950000
+6546	0.4724362631283870000
+23491	0.4724362631283870000
+51716	0.4724362631283870000
+221223	0.4724362631283870000
+1573	0.4847691443905300000
+5916	0.4847691443905300000
+7424	0.4847691443905300000
+91754	0.4847691443905300000
+8408	0.4868336278536000000
+1139	0.4870369400203310000
+100526835	0.4870369400203310000
+2560	0.4872984563139890000
+135	0.5021017126131470000
+1080	0.5110682726730880000
+894	0.5141435080071200000
+23097	0.5141435080071200000
+19885	0.5161336463776080000
+18669	0.5183105284182620000
+60489	0.5183105284182620000
+64354	0.5232909202498270000
+2152	0.5246059830174470000
+4547	0.5246059830174470000
+4953	0.5246059830174470000
+12747	0.5246059830174470000
+51265	0.5246059830174470000
+81657	0.5246059830174470000
+83633	0.5246059830174470000
+13319464	0.5246059830174470000
+84580	0.5298986150149140000
+9376	0.5403192680606670000
+6916	0.5414110042065650000
+4543	0.5487114543521660000
+3326	0.5507666875582850000
+13649	0.5507666875582850000
+657	0.5623089033951780000
+846	0.5623089033951780000
+2597	0.5623089033951780000
+3676	0.5623089033951780000
+3706	0.5623089033951780000
+3707	0.5623089033951780000
+3990	0.5623089033951780000
+5137	0.5623089033951780000
+5550	0.5623089033951780000
+5617	0.5623089033951780000
+6348	0.5623089033951780000
+9254	0.5623089033951780000
+178296	0.5623089033951780000
+308451	0.5623089033951780000
+136	0.5712034370513600000
+57144	0.5779516215104930000
+403963	0.5779516215104930000
+4835	0.5903951013378470000
+5311	0.5903951013378470000
+24922	0.5911727785892090000
+25450	0.5911727785892090000
+25451	0.5911727785892090000
+29689	0.5911727785892090000
+29709	0.5911727785892090000
+65187	0.5911727785892090000
+65191	0.5911727785892090000
+79211	0.5911727785892090000
+81658	0.5911727785892090000
+140674	0.5911727785892090000
+574190	0.5915333160864600000
+185	0.5978159589233180000
+186	0.5978159589233180000
+1513	0.5978159589233180000
+1990	0.5978159589233180000
+83810	0.5978159589233180000
+100911581	0.5978159589233180000
+706	0.6059687877336320000
+25101	0.6059687877336320000
+29253	0.6059687877336320000
+5465	0.6106433218704890000
+24410	0.6106433218704890000
+281125	0.6141911861822390000
+5300	0.6295882231512220000
+24408	0.6295882231512220000
+5914	0.6311107937654570000
+18126	0.6311107937654570000
+6323	0.6327206633498040000
+6328	0.6327206633498040000
+25103	0.6327206633498040000
+8824	0.6405889450833950000
+100144471	0.6405889450833950000
+100519931	0.6405889450833950000
+1133	0.6440253816262080000
+4312	0.6536055850872250000
+1578	0.6581824267268820000
+2911	0.6581824267268820000
+2915	0.6581824267268820000
+7398	0.6581824267268820000
+64816	0.6581824267268820000
+79424	0.6581824267268820000
+2559	0.6591207592107180000
+2561	0.6591207592107180000
+762	0.6591566016105620000
+7155	0.6620224889844190000
+842	0.6622126005495790000
+1312	0.6622126005495790000
+5153	0.6622126005495790000
+7486	0.6622126005495790000
+9568	0.6622126005495790000
+10257	0.6622126005495790000
+14257	0.6622126005495790000
+24182	0.6622126005495790000
+81638	0.6622126005495790000
+4357161	0.6622126005495790000
+13319863	0.6622126005495790000
+3248	0.6645891738547460000
+4297	0.6825093050223610000
+2222	0.6837560821065900000
+3985	0.6911678299959470000
+5136	0.6911678299959470000
+29347	0.6911678299959470000
+13869177	0.6911678299959470000
+407137	0.6991126343102740000
+9429	0.7003484464306940000
+1760	0.7003712794278180000
+2166	0.7180433769234150000
+6725	0.7195984872709880000
+6822	0.7217412109721570000
+18671	0.7217412109721570000
+3620	0.7267927650586770000
+4216	0.7267927650586770000
+100526081	0.7267927650586770000
+781	0.7429210079408990000
+841	0.7429210079408990000
+2550	0.7429210079408990000
+3061	0.7429210079408990000
+6257	0.7429210079408990000
+19016	0.7429210079408990000
+24180	0.7429210079408990000
+57302	0.7429210079408990000
+65061	0.7429210079408990000
+83817	0.7429210079408990000
+526221	0.7429210079408990000
+100135589	0.7447895767020220000
+388228	0.7471166617129910000
+1558	0.7473643840457100000
+155348	0.7488791196297990000
+1066	0.7551660960514490000
+140	0.7572280356928800000
+3630	0.7645498481361080000
+93	0.7658928311561760000
+94	0.7658928311561760000
+840	0.7658928311561760000
+4353	0.7658928311561760000
+5770	0.7658928311561760000
+13317197	0.7658928311561760000
+100135540	0.7658928311561760000
+9256	0.7662122031949930000
+2557	0.7717545964126490000
+9099	0.7717545964126490000
+2475	0.7724207422732070000
+29336	0.7739969324630610000
+3062	0.7870576382393160000
+3757	0.7887615106489800000
+58819	0.7926882926589670000
+25229	0.8024602238644380000
+5143	0.8065179748623690000
+855692	0.8065179748623690000
+12932283	0.8151574982999970000
+2558	0.8159644892203130000
+2562	0.8159644892203130000
+2566	0.8159644892203130000
+5595	0.8227862061623540000
+7442	0.8243778175047340000
+29316	0.8243778175047340000
+10951	0.8271211899575070000
+2556	0.8290432498296350000
+25369	0.8290432498296350000
+25825	0.8290432498296350000
+1143	0.8311090223776590000
+3292	0.8407407533862640000
+225689	0.8413395658029280000
+2555	0.8528835707490900000
+24409	0.8528835707490900000
+24412	0.8528835707490900000
+28234	0.8528835707490900000
+170796	0.8528835707490900000
+191573	0.8528835707490900000
+281126	0.8528835707490900000
+4160	0.8532690290543950000
+8877	0.8532690290543950000
+552898	0.8532690290543950000
+3309	0.8557085763176340000
+3558	0.8557085763176340000
+6715	0.8557085763176340000
+6716	0.8557085763176340000
+537043	0.8557085763176340000
+3636621	0.8557085763176340000
+80733	0.8573147347748900000
+25689	0.8690302200930840000
+7422	0.8693802249277960000
+4221	0.8747711391076720000
+768	0.8749457772179520000
+1901	0.8818510013760080000
+3290	0.8818510013760080000
+10682	0.8818510013760080000
+377677	0.8818510013760080000
+1636	0.8864145664899180000
+146802	0.8864145664899180000
+4985	0.8888062455947270000
+1136	0.8899368442366350000
+24411	0.8921642258802130000
+280741	0.8932120185691610000
+390245	0.8980381254832750000
+5164	0.8992259692049580000
+5165	0.8992259692049580000
+5166	0.8992259692049580000
+5621	0.9000651430772090000
+5141	0.9004194393595780000
+3351	0.9032640917066770000
+761	0.9035498323321850000
+116549	0.9035498323321850000
+5743	0.9097453782214210000
+2648	0.9152713510404900000
+6865	0.9173217466663870000
+3577	0.9214780900360000000
+1816	0.9260517105105450000
+3274	0.9260517105105450000
+2554	0.9281121667347830000
+23632	0.9281121667347830000
+6915	0.9292174526699560000
+10919	0.9308141663923940000
+25601	0.9362315053833310000
+5315	0.9391701657385510000
+116443	0.9391701657385510000
+407230	0.9425827413639930000
+100033901	0.9425827413639930000
+472	0.9483291116313240000
+1548	0.9514851695819570000
+6326	0.9514851695819570000
+100051593	0.9514851695819570000
+2902	0.9528740863413610000
+2904	0.9528740863413610000
+6532	0.9533913373430830000
+100135539	0.9535242143775850000
+1555	0.9535321305046970000
+1551	0.9558479217223160000
+71934	0.9582175043158280000
+771	0.9591309105091290000
+3354	0.9598411046483570000
+836	0.9603657166840750000
+2065	0.9624545145089960000
+443551	0.9624545145089960000
+15560	0.9662770846716200000
+4313	0.9675101865328060000
+9367	0.9690375946302060000
+3352	0.9692805272240860000
+3361	0.9698787932047270000
+6531	0.9722431441003090000
+2548	0.9729114505298800000
+3064	0.9729114505298800000
+3355	0.9751971891214150000
+4214	0.9756259657887240000
+1565	0.9761528733289950000
+765	0.9767252156777650000
+766	0.9767252156777650000
+170572	0.9771015261733370000
+200909	0.9771015261733370000
+285242	0.9771015261733370000
+811999	0.9785150953341150000
+24898	0.9787385151747020000
+152	0.9794528009193060000
+3358	0.9803787804560740000
+1815	0.9811023460423730000
+9177	0.9822662482871700000
+116444	0.9824441688432500000
+100524920	0.9832758474819910000
+25195	0.9838373644569280000
+3356	0.9841413250543490000
+6530	0.9843119863700600000
+4000	0.9844005850979210000
+5138	0.9859181963596720000
+3360	0.9863023339045110000
+4314	0.9873943679400890000
+153	0.9874660640921600000
+54737	0.9876376303421710000
+2905	0.9887193043355350000
+2906	0.9887193043355350000
+11238	0.9887193043355350000
+10599	0.9887990310972300000
+3359	0.9903805742367570000
+763	0.9909740971080210000
+4322	0.9909740971080210000
+58963	0.9911998208576880000
+79246	0.9911998208576880000
+25075	0.9915030107989520000
+4986	0.9917406447804770000
+2903	0.9919298353572200000
+155	0.9927863425350630000
+25432	0.9930591263163250000
+7421	0.9939289308519020000
+25323	0.9942702096338320000
+5289	0.9954066242141830000
+15558	0.9963398800185920000
+24473	0.9963430516955920000
+29581	0.9965652836683820000
+60448	0.9967726804282740000
+1814	0.9973154015759350000
+65032	0.9978672846617410000
+29238	0.9985591031672130000
+25187	0.9992314280103360000
+10280	0.9994043340400130000
+55775	0.9994587415935760000
+148	0.9995690769671420000
+3350	0.9995751505680240000
+29595	0.9995934913028640000
+24316	0.9996185310009630000
+3363	0.9996598577989440000
+25083	0.9996901336856080000
+150	0.9997669717015870000
+7068	0.9997861156872460000
+154	0.9998411644071680000
+3357	0.9998821892954570000
+3362	0.9998945383736940000
+151	0.9999170287185770000
+1813	0.9999664091841640000
+3269	0.9999758861815950000
+24175	0.9999763466921180000
+25553	0.9999813898755000000
+24174	0.9999919815547370000
+24318	0.9999934995224440000
+641	0.9999985328877610000
+147	0.9999996427471960000
+24173	0.9999996485572580000
+29413	0.9999998383701630000
+146	0.9999999870079330000
+29412	0.9999999954232700000
