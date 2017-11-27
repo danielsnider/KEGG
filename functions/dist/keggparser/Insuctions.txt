@@ -1,0 +1,8 @@
+Instructions
+Matlab:
+Create folder unzip files into the folder. In Matlab cd to that folder and 
+type KEGG_parser in Commmand Window. 
+
+Scilab:
+Unpack kegg_parser.sce somwhere. In Scilab type exec("path_to_folder/kegg_parser.sce")
+

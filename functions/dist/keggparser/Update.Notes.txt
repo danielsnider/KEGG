@@ -1,0 +1,5 @@
+1. Minor bugs are fixed.
+2. Addition of new pathway to the saved pathway collection
+3. Button to delete unconnected nodes.
+4. Improved parsing for metabolic pathways (relation attribute based parsing)
+
